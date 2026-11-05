@@ -1,0 +1,1162 @@
+categoria_procedimiento,codigo_cpt,descripcion_procedimiento,estado_codigo
+AAA,34830,"Reparación abierta de aneurisma o disección de aorta infrarrenal, más reparación del trauma arterial asociado, tras reparación endovascular fallida; prótesis tubular",Sin Cambios
+AAA,34831,"Reparación abierta de aneurisma o disección de aorta infrarrenal, más reparación del trauma arterial asociado, tras reparación endovascular fallida; prótesis aorto-biilíaca",Sin Cambios
+AAA,34832,"Reparación abierta de aneurisma o disección de aorta infrarrenal, más reparación del trauma arterial asociado, tras reparación endovascular fallida; prótesis aorto-bifemoral",Sin Cambios
+AAA,35081,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma, pseudoaneurisma y enfermedad oclusiva asociada, aorta abdominal",Sin Cambios
+AAA,35082,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma roto, aorta abdominal",Sin Cambios
+AAA,35091,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma, pseudoaneurisma y enfermedad oclusiva asociada, aorta abdominal con compromiso de vasos viscerales (mesentéricos, celíacos, renales)",Sin Cambios
+AAA,35092,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma roto, aorta abdominal con compromiso de vasos viscerales (mesentéricos, celíacos, renales)",Sin Cambios
+AAA,35102,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma, pseudoaneurisma y enfermedad oclusiva asociada, aorta abdominal con compromiso de vasos ilíacos (común, hipogástrica, externa)",Sin Cambios
+AAA,35103,"Reparación directa de aneurisma, pseudoaneurisma o escisión (parcial o total) e inserción de injerto, con o sin parche; por aneurisma roto, aorta abdominal con compromiso de vasos ilíacos (común, hipogástrica, externa)",Sin Cambios
+AMP,23900,Amputación interescapulotorácica (cuarto anterior),Sin Cambios
+AMP,23920,Desarticulación del hombro,Sin Cambios
+AMP,24900,Amputación del brazo a través del húmero; con cierre primario,Sin Cambios
+AMP,24920,"Amputación del brazo a través del húmero; abierta, circular (guillotina)",Sin Cambios
+AMP,24930,Amputación del brazo a través del húmero; reamputación,Sin Cambios
+AMP,24931,Amputación del brazo a través del húmero; con implante,Sin Cambios
+AMP,25900,Amputación del antebrazo a través del radio y cúbito,Sin Cambios
+AMP,25905,"Amputación del antebrazo a través del radio y cúbito; abierta, circular (guillotina)",Sin Cambios
+AMP,25909,Amputación del antebrazo a través del radio y cúbito; reamputación,Sin Cambios
+AMP,25920,Desarticulación a nivel de la muñeca,Sin Cambios
+AMP,25922,Desarticulación a nivel de la muñeca; cierre secundario o revisión de cicatriz,Sin Cambios
+AMP,25924,Desarticulación a nivel de la muñeca; reamputación,Sin Cambios
+AMP,25927,Amputación transmetacarpiana,Sin Cambios
+AMP,25929,Amputación transmetacarpiana; cierre secundario o revisión de cicatriz,Sin Cambios
+AMP,25931,Amputación transmetacarpiana; reamputación,Sin Cambios
+AMP,26235,"Escisión parcial de hueso (craterización, saucerización o diafisectomía) (ej. osteomielitis); falange proximal o media del dedo de la mano",Sin Cambios
+AMP,26236,"Escisión parcial de hueso (craterización, saucerización o diafisectomía) (ej. osteomielitis); falange distal del dedo de la mano",Sin Cambios
+AMP,26910,"Amputación de metacarpiano con dedo o pulgar (amputación en rayo), única, con o sin transferencia interósea",Sin Cambios
+AMP,26951,"Amputación de dedo o pulgar, primaria o secundaria, cualquier articulación o falange, única, incluye neurectomías; con cierre directo",Sin Cambios
+AMP,26952,"Amputación de dedo o pulgar, primaria o secundaria, cualquier articulación o falange, única, incluye neurectomías; con colgajos locales de avance (V-Y, capuchón)",Sin Cambios
+AMP,27290,Amputación interpelviabdominal (hemipelvectomía),Sin Cambios
+AMP,27295,Desarticulación de la cadera,Sin Cambios
+AMP,27590,"Amputación del muslo a través del fémur, cualquier nivel",Sin Cambios
+AMP,27591,"Amputación del muslo a través del fémur, cualquier nivel; técnica de adaptación inmediata incluido el primer yeso",Sin Cambios
+AMP,27592,"Amputación del muslo a través del fémur, cualquier nivel; abierta, circular (guillotina)",Sin Cambios
+AMP,27598,Desarticulación de la rodilla,Sin Cambios
+AMP,27880,Amputación de la pierna a través de tibia y peroné,Sin Cambios
+AMP,27881,Amputación de la pierna a través de tibia y peroné; con técnica de adaptación inmediata incluida la colocación del primer yeso,Sin cambios
+AMP,27882,"Amputación de la pierna a través de tibia y peroné; abierta, circular (guillotina)",Sin Cambios
+AMP,27884,Amputación de la pierna a través de tibia y peroné; cierre secundario o revisión de cicatriz,Sin Cambios
+AMP,27886,Amputación de la pierna a través de tibia y peroné; reamputación,Sin Cambios
+AMP,27888,"Amputación del tobillo a través de los maléolos de tibia y peroné (ej. procedimientos tipo Syme, Pirogoff), con cierre plástico y resección de nervios",Sin Cambios
+AMP,27889,Desarticulación del tobillo,Sin Cambios
+AMP,28124,"Escisión parcial de hueso (craterización, saucerización, secuestrectomía o diafisectomía) (ej. osteomielitis o abultamiento); falange del dedo del pie",Sin Cambios
+AMP,28126,"Resección parcial o completa de la base de la falange, cada dedo del pie",Sin Cambios
+AMP,28160,"Hemifalangectomía o escisión de articulación interfalángica, dedo del pie, extremo proximal de la falange, cada uno",Sin Cambios
+AMP,28800,Amputación del pie; mediotarsiana (ej. procedimiento tipo Chopart),Sin Cambios
+AMP,28805,Amputación del pie; transmetatarsiana,Sin Cambios
+AMP,28810,"Amputación de metatarsiano con dedo del pie, única",Sin Cambios
+AMP,28820,Amputación de dedo del pie; articulación metatarsofalángica,Sin Cambios
+AMP,28825,Amputación de dedo del pie; articulación interfalángica,Sin Cambios
+APPY,44900,"Incisión y drenaje de absceso apendicular, abierto",Sin Cambios
+APPY,44950,Apendicectomía,Sin Cambios
+APPY,44955,Apendicectomía; realizada con indicación durante otro procedimiento mayor (no como procedimiento separado) (reportar por separado además del código del procedimiento principal),Sin Cambios
+APPY,44960,Apendicectomía; por apéndice roto con absceso o peritonitis generalizada,Sin Cambios
+APPY,44970,"Laparoscopia quirúrgica, apendicectomía",Sin Cambios
+APPY,44979,"Procedimiento laparoscópico no listado, apéndice",Sin Cambios
+AVSD,36800,"Inserción de cánula para hemodiálisis, otro propósito (procedimiento separado); vena a vena",Sin Cambios
+AVSD,36810,"Inserción de cánula para hemodiálisis, otro propósito (procedimiento separado); arteriovenosa, externa (tipo Scribner)",Sin Cambios
+AVSD,36815,"Inserción de cánula para hemodiálisis, otro propósito (procedimiento separado); arteriovenosa, revisión externa o cierre",Sin Cambios
+AVSD,36818,Anastomosis arteriovenosa abierta; por transposición de vena cefálica del brazo,Sin Cambios
+AVSD,36819,Anastomosis arteriovenosa abierta; por transposición de vena basílica del brazo,Sin Cambios
+AVSD,36820,Anastomosis arteriovenosa abierta; por transposición de vena del antebrazo,Sin Cambios
+AVSD,36821,"Anastomosis arteriovenosa abierta; directa, cualquier sitio (ej. tipo Cimino) (procedimiento separado)",Sin Cambios
+AVSD,36825,Creación de fístula arteriovenosa por método distinto a la anastomosis arteriovenosa directa (procedimiento separado); injerto autógeno,Sin Cambios
+AVSD,36830,Creación de fístula arteriovenosa por método distinto a la anastomosis arteriovenosa directa (procedimiento separado); injerto no autógeno,Sin Cambios
+AVSD,36832,"Revisión abierta de fístula arteriovenosa; sin trombectomía, injerto de diálisis autógeno o no autógeno (procedimiento separado)",Sin Cambios
+AVSD,36833,"Revisión abierta de fístula arteriovenosa; con trombectomía, injerto de diálisis autógeno o no autógeno (procedimiento separado)",Sin Cambios
+AVSD,36838,"Revascularización distal y ligadura de intervalo (DRIL), acceso de hemodiálisis de extremidad superior (síndrome de robo)",Sin Cambios
+BILI,47010,"Hepatotomía; para drenaje abierto de absceso o quiste, 1 o 2 etapas",Sin Cambios
+BILI,47015,Laparotomía con aspiración y/o inyección de quiste(s) o absceso(s) parasitario(s) hepático(s) (ej. amebiano o equinocócico),Sin Cambios
+BILI,47100,Biopsia hepática en cuña,Sin Cambios
+BILI,47120,"Hepatectomía, resección hepática; lobectomía parcial",Sin Cambios
+BILI,47122,"Hepatectomía, resección hepática; trisegmentectomía",Sin Cambios
+BILI,47125,"Hepatectomía, resección hepática; lobectomía izquierda total",Sin Cambios
+BILI,47130,"Hepatectomía, resección hepática; lobectomía derecha total",Sin Cambios
+BILI,47140,"Hepatectomía de donante (incluye preservación en frío), de donante vivo; solo segmento lateral izquierdo (segmentos II y III)",Sin Cambios
+BILI,47141,"Hepatectomía de donante (incluye preservación en frío), de donante vivo; lobectomía izquierda total (segmentos II, III y IV)",Sin Cambios
+BILI,47142,"Hepatectomía de donante (incluye preservación en frío), de donante vivo; lobectomía derecha total (segmentos V, VI, VII y VIII)",Sin Cambios
+BILI,47300,Marsupialización de quiste o absceso hepático,Sin Cambios
+BILI,47350,Manejo de hemorragia hepática; sutura simple de herida o lesión hepática,Sin Cambios
+BILI,47360,"Manejo de hemorragia hepática; sutura compleja de herida o lesión hepática, con o sin ligadura de arteria hepática",Sin Cambios
+BILI,47361,"Manejo de hemorragia hepática; exploración de herida hepática, desbridamiento extenso, coagulación y/o sutura, con o sin taponamiento hepático",Sin Cambios
+BILI,47362,Manejo de hemorragia hepática; reexploración de herida hepática para retiro de taponamiento,Sin Cambios
+BILI,47370,"Laparoscopia quirúrgica, ablación de 1 o más tumores hepáticos; radiofrecuencia",Sin Cambios
+BILI,47371,"Laparoscopia quirúrgica, ablación de 1 o más tumores hepáticos; criocirugía",Sin Cambios
+BILI,47379,"Procedimiento laparoscópico no listado, hígado",Sin Cambios
+BILI,47380,Ablación abierta de 1 o más tumores hepáticos; radiofrecuencia,Sin Cambios
+BILI,47381,Ablación abierta de 1 o más tumores hepáticos; criocirugía,Sin Cambios
+BILI,47400,"Hepaticotomía o hepaticostomía con exploración, drenaje o extracción de cálculo",Sin Cambios
+BILI,47420,"Coledocotomía o coledocostomía con exploración, drenaje o extracción de cálculo, con o sin colecistotomía; sin esfinterotomía o esfinteroplastia transduodenal",Sin Cambios
+BILI,47425,"Coledocotomía o coledocostomía con exploración, drenaje o extracción de cálculo, con o sin colecistotomía; con esfinterotomía o esfinteroplastia transduodenal",Sin Cambios
+BILI,47460,"Esfinterotomía o esfinteroplastia transduodenal, con o sin extracción transduodenal de cálculo (procedimiento separado)",Sin Cambios
+BILI,47700,"Exploración por atresia congénita de vías biliares, sin reparación, con o sin biopsia hepática, con o sin colangiografía",Sin Cambios
+BILI,47701,Portoenterostomía (ej. procedimiento de Kasai),Sin Cambios
+BILI,47711,"Escisión de tumor de vía biliar, con o sin reparación primaria de la vía biliar; extrahepático",Sin Cambios
+BILI,47712,"Escisión de tumor de vía biliar, con o sin reparación primaria de la vía biliar; intrahepático",Sin Cambios
+BILI,47715,Escisión de quiste de colédoco,Sin Cambios
+BILI,47760,Anastomosis de vías biliares extrahepáticas y tracto gastrointestinal,Sin Cambios
+BILI,47765,Anastomosis de conductos intrahepáticos y tracto gastrointestinal,Sin Cambios
+BILI,47780,Anastomosis en Y de Roux de vías biliares extrahepáticas y tracto gastrointestinal,Sin Cambios
+BILI,47785,Anastomosis en Y de Roux de vías biliares intrahepáticas y tracto gastrointestinal,Sin Cambios
+BILI,47800,Reconstrucción plástica de vías biliares extrahepáticas con anastomosis término-terminal,Sin Cambios
+BILI,47802,Hepaticoenterostomía con tubo en U,Sin Cambios
+BILI,47900,Sutura de vía biliar extrahepática por lesión preexistente (procedimiento separado),Sin Cambios
+BILI,48000,Colocación de drenajes peripancreáticos por pancreatitis aguda,Sin Cambios
+BILI,48001,"Colocación de drenajes peripancreáticos por pancreatitis aguda; con colecistostomía, gastrostomía y yeyunostomía",Sin Cambios
+BILI,48020,Extracción de cálculo pancreático,Sin Cambios
+BILI,48100,"Biopsia de páncreas abierta (ej. aspiración con aguja fina, biopsia con aguja gruesa, biopsia en cuña)",Sin Cambios
+BILI,48105,Resección o desbridamiento de páncreas y tejido peripancreático por pancreatitis aguda necrotizante,Sin Cambios
+BILI,48120,"Escisión de lesión pancreática (ej. quiste, adenoma)",Sin Cambios
+BILI,48140,"Pancreatectomía distal subtotal, con o sin esplenectomía; sin pancreaticoyeyunostomía",Sin Cambios
+BILI,48145,"Pancreatectomía distal subtotal, con o sin esplenectomía; con pancreaticoyeyunostomía",Sin Cambios
+BILI,48146,Pancreatectomía distal casi total con preservación del duodeno (procedimiento tipo Child),Sin Cambios
+BILI,48148,Escisión de la ampolla de Vater,Sin Cambios
+BILI,48150,"Pancreatectomía proximal subtotal con duodenectomía total, gastrectomía parcial, coledocoenterostomía y gastroyeyunostomía (procedimiento tipo Whipple); con pancreatoyeyunostomía",Sin Cambios
+BILI,48152,"Pancreatectomía proximal subtotal con duodenectomía total, gastrectomía parcial, coledocoenterostomía y gastroyeyunostomía (procedimiento tipo Whipple); sin pancreatoyeyunostomía",Sin Cambios
+BILI,48153,"Pancreatectomía proximal subtotal con duodenectomía casi total, coledocoenterostomía y duodenoyeyunostomía (con preservación del píloro, tipo Whipple); con pancreatoyeyunostomía",Sin Cambios
+BILI,48154,"Pancreatectomía proximal subtotal con duodenectomía casi total, coledocoenterostomía y duodenoyeyunostomía (con preservación del píloro, tipo Whipple); sin pancreatoyeyunostomía",Sin Cambios
+BILI,48155,Pancreatectomía total,Sin Cambios
+BILI,48160,"Pancreatectomía total o subtotal, con trasplante autólogo de páncreas o de células de los islotes pancreáticos",Sin Cambios
+BILI,48500,Marsupialización de quiste pancreático,Sin Cambios
+BILI,48510,Drenaje externo de pseudoquiste pancreático; abierto,Sin Cambios
+BILI,48520,Anastomosis interna de quiste pancreático al tracto gastrointestinal; directa,Sin Cambios
+BILI,48540,Anastomosis interna de quiste pancreático al tracto gastrointestinal; en Y de Roux,Sin Cambios
+BILI,48545,Pancreatorrafia por lesión,Sin Cambios
+BILI,48548,"Pancreaticoyeyunostomía, anastomosis latero-lateral (operación tipo Puestow)",Sin Cambios
+BILI,0585T,"Trasplante de células de los islotes, incluye cateterización e infusión de vena porta, todas las imágenes, toda la guía y supervisión e interpretación radiológica, cuando se realiza; laparoscópico",Sin cambios
+BILI,0586T,"Trasplante de células de los islotes, incluye cateterización e infusión de vena porta, todas las imágenes, toda la guía y supervisión e interpretación radiológica, cuando se realiza; abierto",Sin cambios
+BRST,11970,Reemplazo de expansor(es) de tejido por implante permanente,Sin Cambios
+BRST,19101,"Biopsia de mama; abierta, incisional",Sin Cambios
+BRST,19105,"Ablación crioquirúrgica de fibroadenoma, incluye guía ecográfica, cada fibroadenoma",Sin Cambios
+BRST,19110,"Exploración del pezón, con o sin escisión de un conducto galactóforo solitario o de un papiloma del conducto galactóforo",Sin Cambios
+BRST,19112,Escisión de fístula del conducto galactóforo,Sin Cambios
+BRST,19120,"Escisión de quiste, fibroadenoma u otro tumor benigno o maligno, tejido mamario aberrante, lesión ductal, lesión del pezón o areola (excepto 19300), abierta, hombre o mujer, 1 o más lesiones",Sin Cambios
+BRST,19125,"Escisión de lesión mamaria identificada por colocación preoperatoria de marcador radiológico, abierta, lesión única",Sin Cambios
+BRST,19126,"Escisión de lesión mamaria identificada por colocación preoperatoria de marcador radiológico, abierta, lesión única; cada lesión adicional identificada por separado con marcador radiológico preoperatorio (reportar por separado además del código del procedimiento principal)",Sin Cambios
+BRST,19300,Mastectomía por ginecomastia,Sin Cambios
+BRST,19301,"Mastectomía parcial (ej. tumorectomía, tilectomía, cuadrantectomía, segmentectomía)",Sin Cambios
+BRST,19302,"Mastectomía parcial (ej. tumorectomía, tilectomía, cuadrantectomía, segmentectomía); con linfadenectomía axilar",Sin Cambios
+BRST,19303,"Mastectomía simple, completa",Sin Cambios
+BRST,19305,"Mastectomía radical, incluye músculos pectorales y ganglios linfáticos axilares",Sin Cambios
+BRST,19306,"Mastectomía radical, incluye músculos pectorales, ganglios linfáticos axilares y mamarios internos (operación tipo Urban)",Sin Cambios
+BRST,19307,"Mastectomía radical modificada, incluye ganglios linfáticos axilares, con o sin músculo pectoral menor, excluyendo el pectoral mayor",Sin Cambios
+BRST,19316,Mastopexia,Sin Cambios
+BRST,19318,Mamoplastia de reducción,Sin Cambios
+BRST,19324,Mamoplastia de aumento; sin implante protésico,Sin Cambios
+BRST,19325,Mamoplastia de aumento; con implante protésico,Sin Cambios
+BRST,19328,Retiro de implante mamario intacto,Sin Cambios
+BRST,19330,Retiro de material de implante mamario,Sin Cambios
+BRST,19340,"Inserción inmediata de prótesis mamaria tras mastopexia, mastectomía o en reconstrucción",Sin Cambios
+BRST,19342,"Inserción diferida de prótesis mamaria tras mastopexia, mastectomía o en reconstrucción",Sin Cambios
+BRST,19350,Reconstrucción de pezón/areola,Sin Cambios
+BRST,19355,Corrección de pezones invertidos,Sin Cambios
+BRST,19357,"Reconstrucción mamaria, inmediata o diferida, con expansor de tejido, incluye la expansión posterior",Sin Cambios
+BRST,19361,"Reconstrucción mamaria con colgajo de dorsal ancho, sin implante protésico",Sin Cambios
+BRST,19364,Reconstrucción mamaria con colgajo libre,Sin Cambios
+BRST,19366,Reconstrucción mamaria con otra técnica,Sin Cambios
+BRST,19367,"Reconstrucción mamaria con colgajo miocutáneo transverso del recto abdominal (TRAM), pedículo único, incluye cierre del sitio donante",Sin Cambios
+BRST,19368,"Reconstrucción mamaria con colgajo miocutáneo transverso del recto abdominal (TRAM), pedículo único, incluye cierre del sitio donante; con anastomosis microvascular (supercarga)",Sin Cambios
+BRST,19369,"Reconstrucción mamaria con colgajo miocutáneo transverso del recto abdominal (TRAM), pedículo doble, incluye cierre del sitio donante",Sin Cambios
+BRST,19370,"Capsulotomía periprotésica abierta, mama",Sin Cambios
+BRST,19371,"Capsulectomía periprotésica, mama",Sin Cambios
+BRST,19380,Revisión de mama reconstruida,Sin Cambios
+CARD,32658,Toracoscopia quirúrgica; con retiro de coágulo o cuerpo extraño del saco pericárdico,Sin Cambios
+CARD,32659,Toracoscopia quirúrgica; con creación de ventana pericárdica o resección parcial del saco pericárdico para drenaje,Sin Cambios
+CARD,32661,"Toracoscopia quirúrgica; con escisión de quiste, tumor o masa pericárdica",Sin Cambios
+CARD,33020,Pericardiotomía para retiro de coágulo o cuerpo extraño (procedimiento principal),Sin Cambios
+CARD,33025,Creación de ventana pericárdica o resección parcial para drenaje,Sin Cambios
+CARD,33030,Pericardiectomía subtotal o completa; sin circulación extracorpórea,Sin Cambios
+CARD,33031,Pericardiectomía subtotal o completa; con circulación extracorpórea,Sin Cambios
+CARD,33050,Resección de quiste o tumor pericárdico,Sin Cambios
+CARD,33120,"Escisión de tumor intracardíaco, resección con circulación extracorpórea",Sin Cambios
+CARD,33130,Resección de tumor cardíaco externo,Sin Cambios
+CARD,33250,"Ablación quirúrgica de foco o vía arritmogénica supraventricular (ej. Wolff-Parkinson-White, reentrada del nodo auriculoventricular), tracto(s) y/o foco(s); sin circulación extracorpórea",Sin Cambios
+CARD,33251,"Ablación quirúrgica de foco o vía arritmogénica supraventricular (ej. Wolff-Parkinson-White, reentrada del nodo auriculoventricular), tracto(s) y/o foco(s); con circulación extracorpórea",Sin Cambios
+CARD,33254,"Ablación quirúrgica de tejido y reconstrucción de aurículas, limitada (ej. procedimiento de laberinto modificado)",Sin Cambios
+CARD,33255,"Ablación quirúrgica de tejido y reconstrucción de aurículas, extensa (ej. procedimiento de laberinto); sin circulación extracorpórea",Sin Cambios
+CARD,33256,"Ablación quirúrgica de tejido y reconstrucción de aurículas, extensa (ej. procedimiento de laberinto); con circulación extracorpórea",Sin Cambios
+CARD,33257,"Ablación quirúrgica de tejido y reconstrucción de aurículas, realizada junto con otro(s) procedimiento(s) cardíaco(s), limitada (ej. laberinto modificado) (reportar por separado además del código del procedimiento principal)",Sin Cambios
+CARD,33258,"Ablación quirúrgica de tejido y reconstrucción de aurículas, realizada junto con otro(s) procedimiento(s) cardíaco(s), extensa (ej. laberinto), sin circulación extracorpórea (reportar por separado además del código del procedimiento principal)",Sin Cambios
+CARD,33259,"Ablación quirúrgica de tejido y reconstrucción de aurículas, realizada junto con otro(s) procedimiento(s) cardíaco(s), extensa (ej. laberinto), con circulación extracorpórea (reportar por separado además del código del procedimiento principal)",Sin Cambios
+CARD,33261,Ablación quirúrgica de foco arritmogénico ventricular con circulación extracorpórea,Sin Cambios
+CARD,33265,"Endoscopia quirúrgica; ablación de tejido y reconstrucción de aurículas, limitada (ej. laberinto modificado), sin circulación extracorpórea",Sin Cambios
+CARD,33266,"Endoscopia quirúrgica; ablación de tejido y reconstrucción de aurículas, extensa (ej. laberinto), sin circulación extracorpórea",Sin Cambios
+CARD,33267,"Exclusión de la orejuela auricular izquierda, abierta, cualquier método (ej. escisión, aislamiento con grapas, sobresutura, ligadura, plicatura, clip)",Sin cambios
+CARD,33268,"Exclusión de la orejuela auricular izquierda, abierta, realizada junto con otra esternotomía o toracotomía, cualquier método (ej. escisión, aislamiento con grapas, sobresutura, ligadura, plicatura, clip) (reportar por separado además del procedimiento principal)",Sin cambios
+CARD,33269,"Exclusión de la orejuela auricular izquierda, toracoscópica, cualquier método (ej. escisión, aislamiento con grapas, sobresutura, ligadura, plicatura, clip)",Sin cambios
+CARD,33300,Reparación de herida cardíaca; sin circulación extracorpórea,Sin Cambios
+CARD,33305,Reparación de herida cardíaca; con circulación extracorpórea,Sin Cambios
+CARD,33310,"Cardiotomía exploratoria (incluye retiro de cuerpo extraño, trombo auricular o ventricular); sin circulación extracorpórea",Sin Cambios
+CARD,33315,"Cardiotomía exploratoria (incluye retiro de cuerpo extraño, trombo auricular o ventricular); con circulación extracorpórea",Sin Cambios
+CARD,33365,"Reemplazo valvular aórtico transcatéter (TAVR/TAVI) con válvula protésica; abordaje transaórtico (ej. esternotomía media, mediastinotomía)",Sin Cambios
+CARD,33366,Reemplazo valvular aórtico transcatéter (TAVR/TAVI) con válvula protésica; exposición transapical (ej. toracotomía izquierda),Sin Cambios
+CARD,33390,"Valvuloplastia de válvula aórtica, abierta, con circulación extracorpórea; simple (valvulotomía, desbridamiento, reducción y/o resuspensión comisural simple)",Sin Cambios
+CARD,33391,"Valvuloplastia de válvula aórtica, abierta, con circulación extracorpórea; compleja (ej. extensión, resección o reconstrucción de valvas, o anuloplastia)",Sin Cambios
+CARD,33404,Construcción de conducto ápico-aórtico,Sin Cambios
+CARD,33405,"Reemplazo de válvula aórtica, abierto, con circulación extracorpórea; con válvula protésica distinta de homoinjerto o válvula sin stent",Sin Cambios
+CARD,33406,Reemplazo de válvula aórtica con circulación extracorpórea; con válvula de aloinjerto (a mano alzada),Sin Cambios
+CARD,33410,"Reemplazo de válvula aórtica, abierto, con circulación extracorpórea; con válvula biológica sin stent",Sin Cambios
+CARD,33411,"Reemplazo de válvula aórtica; con ampliación del anillo aórtico, seno no coronario",Sin Cambios
+CARD,33412,Reemplazo de válvula aórtica; con ampliación transventricular del anillo aórtico (procedimiento de Konno),Sin Cambios
+CARD,33413,Reemplazo de válvula aórtica; por translocación de válvula pulmonar autóloga con reemplazo de la válvula pulmonar por aloinjerto (procedimiento de Ross),Sin Cambios
+CARD,33414,Reparación de obstrucción del tracto de salida del ventrículo izquierdo mediante ampliación con parche,Sin Cambios
+CARD,33415,Resección o incisión de tejido subvalvular por estenosis aórtica subvalvular discreta,Sin Cambios
+CARD,33416,Ventriculomiotomía (miectomía) por estenosis subaórtica hipertrófica idiopática (ej. hipertrofia septal asimétrica),Sin Cambios
+CARD,33417,Aortoplastia (parche) por estenosis supravalvular,Sin Cambios
+CARD,33420,Valvulotomía de válvula mitral; a corazón cerrado,Sin Cambios
+CARD,33422,"Valvulotomía de válvula mitral; a corazón abierto, con circulación extracorpórea",Sin Cambios
+CARD,33425,Valvuloplastia de válvula mitral con circulación extracorpórea,Sin Cambios
+CARD,33426,Valvuloplastia de válvula mitral con circulación extracorpórea; con anillo protésico,Sin Cambios
+CARD,33427,"Valvuloplastia de válvula mitral con circulación extracorpórea; reconstrucción radical, con o sin anillo",Sin Cambios
+CARD,33430,Reemplazo de válvula mitral con circulación extracorpórea,Sin Cambios
+CARD,33440,"Reemplazo de válvula aórtica por translocación de válvula pulmonar autóloga y ampliación transventricular del anillo aórtico del tracto de salida del ventrículo izquierdo, con reemplazo de la válvula pulmonar por conducto valvulado",Sin Cambios
+CARD,33460,Valvulectomía de válvula tricúspide con circulación extracorpórea,Sin Cambios
+CARD,33463,Valvuloplastia de válvula tricúspide; sin inserción de anillo,Sin Cambios
+CARD,33464,Valvuloplastia de válvula tricúspide; con inserción de anillo,Sin Cambios
+CARD,33465,Reemplazo de válvula tricúspide con circulación extracorpórea,Sin Cambios
+CARD,33468,Reposicionamiento y plicatura de válvula tricúspide por anomalía de Ebstein,Sin Cambios
+CARD,33471,"Valvulotomía de válvula pulmonar, a corazón cerrado; vía arteria pulmonar",Sin Cambios
+CARD,33474,"Valvulotomía de válvula pulmonar, a corazón abierto, con circulación extracorpórea",Sin Cambios
+CARD,33475,Reemplazo de válvula pulmonar,Sin Cambios
+CARD,33476,"Resección del ventrículo derecho por estenosis infundibular, con o sin comisurotomía",Sin Cambios
+CARD,33478,"Ampliación del tracto de salida (parche), con o sin comisurotomía o resección infundibular",Sin Cambios
+CARD,33496,Reparación de disfunción no estructural de válvula protésica con circulación extracorpórea (procedimiento separado),Sin Cambios
+CARD,33542,Resección miocárdica (ej. aneurismectomía ventricular),Sin Cambios
+CARD,33545,"Reparación de comunicación interventricular postinfarto, con o sin resección miocárdica",Sin Cambios
+CARD,33548,"Procedimiento quirúrgico de restauración ventricular, incluye parche protésico cuando se realiza (ej. remodelación ventricular, SVR, SAVER, procedimiento de Dor)",Sin Cambios
+CARD,33600,Cierre de válvula auriculoventricular (mitral o tricúspide) con sutura o parche,Sin Cambios
+CARD,33602,Cierre de válvula semilunar (aórtica o pulmonar) con sutura o parche,Sin Cambios
+CARD,33608,"Reparación de anomalía cardíaca compleja distinta de atresia pulmonar con comunicación interventricular, mediante construcción o reemplazo de conducto del ventrículo derecho o izquierdo a la arteria pulmonar",Sin Cambios
+CARD,33610,Reparación de anomalías cardíacas complejas (ej. ventrículo único con obstrucción subaórtica) mediante ampliación quirúrgica de la comunicación interventricular,Sin Cambios
+CARD,33611,Reparación de doble salida del ventrículo derecho con túnel intraventricular,Sin Cambios
+CARD,33612,Reparación de doble salida del ventrículo derecho con túnel intraventricular; con reparación de obstrucción del tracto de salida del ventrículo derecho,Sin Cambios
+CARD,33615,Reparación de anomalías cardíacas complejas (ej. atresia tricuspídea) mediante cierre de comunicación interauricular y anastomosis de aurícula o vena cava a la arteria pulmonar (procedimiento de Fontan simple),Sin Cambios
+CARD,33617,Reparación de anomalías cardíacas complejas (ej. ventrículo único mediante Fontan modificado),Sin Cambios
+CARD,33619,Reparación de ventrículo único con obstrucción del tracto de salida aórtico e hipoplasia del arco aórtico (síndrome de corazón izquierdo hipoplásico) (ej. procedimiento de Norwood),Sin Cambios
+CARD,33641,"Reparación de comunicación interauricular tipo ostium secundum, con circulación extracorpórea, con o sin parche",Sin Cambios
+CARD,33645,"Cierre directo o con parche de seno venoso, con o sin drenaje venoso pulmonar anómalo",Sin Cambios
+CARD,33647,"Reparación de comunicación interauricular e interventricular, con cierre directo o con parche",Sin Cambios
+CARD,33660,"Reparación de canal auriculoventricular incompleto o parcial (comunicación interauricular tipo ostium primum), con o sin reparación de válvula auriculoventricular",Sin Cambios
+CARD,33665,"Reparación de canal auriculoventricular intermedio o transicional, con o sin reparación de válvula auriculoventricular",Sin Cambios
+CARD,33670,"Reparación de canal auriculoventricular completo, con o sin válvula protésica",Sin Cambios
+CARD,33675,Cierre de múltiples comunicaciones interventriculares,Sin Cambios
+CARD,33676,Cierre de múltiples comunicaciones interventriculares; con valvulotomía pulmonar o resección infundibular (acianótico),Sin Cambios
+CARD,33677,"Cierre de múltiples comunicaciones interventriculares; con retiro de banda de arteria pulmonar, con o sin parche",Sin Cambios
+CARD,33681,"Cierre de comunicación interventricular única, con o sin parche",Sin Cambios
+CARD,33684,"Cierre de comunicación interventricular única, con o sin parche; con valvulotomía pulmonar o resección infundibular (acianótico)",Sin Cambios
+CARD,33688,"Cierre de comunicación interventricular única, con o sin parche; con retiro de banda de arteria pulmonar, con o sin parche",Sin Cambios
+CARD,33692,Reparación completa de tetralogía de Fallot sin atresia pulmonar,Sin Cambios
+CARD,33694,Reparación completa de tetralogía de Fallot sin atresia pulmonar; con parche transanular,Sin Cambios
+CARD,33697,"Reparación completa de tetralogía de Fallot con atresia pulmonar, incluye construcción de conducto del ventrículo derecho a la arteria pulmonar y cierre de la comunicación interventricular",Sin Cambios
+CARD,33702,Reparación de fístula del seno de Valsalva con circulación extracorpórea,Sin Cambios
+CARD,33710,Reparación de fístula del seno de Valsalva con circulación extracorpórea; con reparación de comunicación interventricular,Sin Cambios
+CARD,33720,Reparación de aneurisma del seno de Valsalva con circulación extracorpórea,Sin Cambios
+CARD,33732,Reparación de cor triatriatum o anillo mitral supravalvular mediante resección de membrana auricular izquierda,Sin Cambios
+CARD,33735,Septectomía o septostomía auricular; a corazón cerrado (operación tipo Blalock-Hanlon),Sin Cambios
+CARD,33736,Septectomía o septostomía auricular; a corazón abierto con circulación extracorpórea,Sin Cambios
+CARD,33737,"Septectomía o septostomía auricular; a corazón abierto, con oclusión del flujo de entrada",Sin Cambios
+CARD,33770,Reparación de transposición de grandes arterias con comunicación interventricular y estenosis subpulmonar; sin ampliación quirúrgica de la comunicación interventricular,Sin Cambios
+CARD,33774,"Reparación de transposición de grandes arterias, procedimiento de deflector auricular (ej. tipo Mustard o Senning) con circulación extracorpórea",Sin Cambios
+CARD,33776,"Reparación de transposición de grandes arterias, procedimiento de deflector auricular (ej. tipo Mustard o Senning) con circulación extracorpórea; con cierre de comunicación interventricular",Sin Cambios
+CARD,33780,"Reparación de transposición de grandes arterias, reconstrucción aórtica y de arteria pulmonar (ej. tipo Jatene); con cierre de comunicación interventricular",Sin Cambios
+CARD,33782,Translocación de raíz aórtica con reparación de comunicación interventricular y estenosis pulmonar (procedimiento de Nikaidoh); sin reimplante de ostium coronario,Sin Cambios
+CARD,33783,Translocación de raíz aórtica con reparación de comunicación interventricular y estenosis pulmonar (procedimiento de Nikaidoh); con reimplante de 1 o ambos ostia coronarios,Sin Cambios
+CARD,33786,Reparación total de tronco arterioso (operación tipo Rastelli),Sin Cambios
+CARD,33813,Obliteración de defecto septal aortopulmonar; sin circulación extracorpórea,Sin Cambios
+CARD,33814,Obliteración de defecto septal aortopulmonar; con circulación extracorpórea,Sin Cambios
+CARD,33920,"Reparación de atresia pulmonar con comunicación interventricular, mediante construcción o reemplazo de conducto del ventrículo derecho o izquierdo a la arteria pulmonar",Sin Cambios
+CARD,33975,"Inserción de dispositivo de asistencia ventricular; extracorpóreo, un ventrículo",Sin cambios
+CARD,33976,"Inserción de dispositivo de asistencia ventricular; extracorpóreo, biventricular",Sin cambios
+CARD,33977,"Retiro de dispositivo de asistencia ventricular; extracorpóreo, un ventrículo",Sin cambios
+CARD,33978,"Retiro de dispositivo de asistencia ventricular; extracorpóreo, biventricular",Sin cambios
+CARD,33979,"Inserción de dispositivo de asistencia ventricular; implantable intracorpóreo, un ventrículo",Sin cambios
+CARD,33980,"Retiro de dispositivo de asistencia ventricular; implantable intracorpóreo, un ventrículo",Sin cambios
+CARD,0051T,Implante de sistema de reemplazo cardíaco total (corazón artificial) con cardiectomía del receptor,Sin cambios
+CARD,0052T,"Reemplazo o reparación de componente(s) implantable(s) del sistema de reemplazo cardíaco total (corazón artificial), unidad torácica",Sin cambios
+CARD,0053T,"Reemplazo o reparación de componente(s) implantable(s) del sistema de reemplazo cardíaco total (corazón artificial), excluye la unidad torácica",Sin cambios
+CBGB,33509,Extracción endoscópica de un segmento de arteria de extremidad superior para bypass de arteria coronaria,Sin cambios
+CBGB,33510,"Bypass de arteria coronaria, solo venoso; un injerto venoso coronario",Sin Cambios
+CBGB,33511,"Bypass de arteria coronaria, solo venoso; 2 injertos venosos coronarios",Sin Cambios
+CBGB,33512,"Bypass de arteria coronaria, solo venoso; 3 injertos venosos coronarios",Sin Cambios
+CBGB,33513,"Bypass de arteria coronaria, solo venoso; 4 injertos venosos coronarios",Sin Cambios
+CBGB,33514,"Bypass de arteria coronaria, solo venoso; 5 injertos venosos coronarios",Sin Cambios
+CBGB,33516,"Bypass de arteria coronaria, solo venoso; 6 o más injertos venosos coronarios",Sin Cambios
+CBGB,35600,"Extracción de arteria de extremidad superior, 1 segmento, para bypass de arteria coronaria, abierta",Sin cambios
+CBGC,33533,Bypass de arteria coronaria con injerto(s) arterial(es); un injerto arterial,Sin Cambios
+CBGC,33534,Bypass de arteria coronaria con injerto(s) arterial(es); 2 injertos arteriales coronarios,Sin Cambios
+CBGC,33535,Bypass de arteria coronaria con injerto(s) arterial(es); 3 injertos arteriales coronarios,Sin Cambios
+CBGC,33536,Bypass de arteria coronaria con injerto(s) arterial(es); 4 o más injertos arteriales coronarios,Sin Cambios
+CEA,35301,"Tromboendarterectomía, incluye injerto de parche si se realiza; carótida, vertebral, subclavia, por incisión en el cuello",Sin Cambios
+CEA,35390,"Reintervención de carótida, tromboendarterectomía, más de 1 mes después de la operación original (reportar por separado además del código del procedimiento principal)",Sin Cambios
+CHOL,47480,"Colecistotomía o colecistostomía abierta, con exploración, drenaje o extracción de cálculo (procedimiento separado)",Sin Cambios
+CHOL,47562,Laparoscopia quirúrgica; colecistectomía,Sin Cambios
+CHOL,47563,Laparoscopia quirúrgica; colecistectomía con colangiografía,Sin Cambios
+CHOL,47564,Laparoscopia quirúrgica; colecistectomía con exploración del colédoco,Sin Cambios
+CHOL,47570,Laparoscopia quirúrgica; colecistoenterostomía,Sin Cambios
+CHOL,47600,Colecistectomía,Sin Cambios
+CHOL,47605,Colecistectomía; con colangiografía,Sin Cambios
+CHOL,47610,Colecistectomía con exploración del colédoco,Sin Cambios
+CHOL,47612,Colecistectomía con exploración del colédoco; con coledocoenterostomía,Sin Cambios
+CHOL,47620,"Colecistectomía con exploración del colédoco; con esfinterotomía o esfinteroplastia transduodenal, con o sin colangiografía",Sin Cambios
+CHOL,47720,Colecistoenterostomía; directa,Sin Cambios
+CHOL,47721,Colecistoenterostomía; con gastroenterostomía,Sin Cambios
+CHOL,47740,Colecistoenterostomía; en Y de Roux,Sin Cambios
+CHOL,47741,Colecistoenterostomía; en Y de Roux con gastroenterostomía,Sin Cambios
+COLO,44025,"Colotomía para exploración, biopsia(s) o retiro de cuerpo extraño",Sin Cambios
+COLO,44110,"Escisión de 1 o más lesiones del intestino delgado o grueso que no requieren anastomosis, exteriorización ni fistulización; enterotomía única",Sin Cambios
+COLO,44111,"Escisión de 1 o más lesiones del intestino delgado o grueso que no requieren anastomosis, exteriorización ni fistulización; enterotomías múltiples",Sin Cambios
+COLO,44137,Retiro completo de aloinjerto intestinal trasplantado,Sin Cambios
+COLO,44140,Colectomía parcial; con anastomosis,Sin Cambios
+COLO,44141,Colectomía parcial; con cecostomía o colostomía a nivel de piel,Sin Cambios
+COLO,44143,Colectomía parcial; con colostomía terminal y cierre del segmento distal (procedimiento tipo Hartmann),Sin Cambios
+COLO,44144,"Colectomía parcial; con resección, con colostomía o ileostomía y creación de mucofístula",Sin Cambios
+COLO,44145,Colectomía parcial; con coloproctostomía (anastomosis pélvica baja),Sin Cambios
+COLO,44146,"Colectomía parcial; con coloproctostomía (anastomosis pélvica baja), con colostomía",Sin Cambios
+COLO,44147,Colectomía parcial; abordaje abdominal y transanal,Sin Cambios
+COLO,44150,"Colectomía total abdominal, sin proctectomía; con ileostomía o ileoproctostomía",Sin Cambios
+COLO,44151,"Colectomía total abdominal, sin proctectomía; con ileostomía continente",Sin Cambios
+COLO,44155,"Colectomía total abdominal, con proctectomía; con ileostomía",Sin Cambios
+COLO,44156,"Colectomía total abdominal, con proctectomía; con ileostomía continente",Sin Cambios
+COLO,44157,"Colectomía total abdominal, con proctectomía; con anastomosis ileoanal, incluye ileostomía en asa y mucosectomía rectal, cuando se realiza",Sin Cambios
+COLO,44158,"Colectomía total abdominal, con proctectomía; con anastomosis ileoanal, creación de reservorio ileal (S o J), incluye ileostomía en asa y mucosectomía rectal, cuando se realiza",Sin Cambios
+COLO,44160,"Colectomía parcial, con resección del íleon terminal e ileocolostomía",Sin Cambios
+COLO,44188,"Laparoscopia quirúrgica, colostomía o cecostomía a nivel de piel",Sin Cambios
+COLO,44204,"Laparoscopia quirúrgica; colectomía parcial, con anastomosis",Sin Cambios
+COLO,44205,"Laparoscopia quirúrgica; colectomía parcial, con resección del íleon terminal e ileocolostomía",Sin Cambios
+COLO,44206,"Laparoscopia quirúrgica; colectomía parcial, con colostomía terminal y cierre del segmento distal (procedimiento tipo Hartmann)",Sin Cambios
+COLO,44207,"Laparoscopia quirúrgica; colectomía parcial, con anastomosis, con coloproctostomía (anastomosis pélvica baja)",Sin Cambios
+COLO,44208,"Laparoscopia quirúrgica; colectomía parcial, con anastomosis, con coloproctostomía (anastomosis pélvica baja) con colostomía",Sin Cambios
+COLO,44210,"Laparoscopia quirúrgica; colectomía total abdominal, sin proctectomía, con ileostomía o ileoproctostomía",Sin Cambios
+COLO,44211,"Laparoscopia quirúrgica; colectomía total abdominal, con proctectomía, con anastomosis ileoanal, creación de reservorio ileal (S o J), con ileostomía en asa, incluye mucosectomía rectal, cuando se realiza",Sin Cambios
+COLO,44212,"Laparoscopia quirúrgica; colectomía total abdominal, con proctectomía, con ileostomía",Sin Cambios
+COLO,44213,"Laparoscopia quirúrgica, movilización (descenso) del ángulo esplénico realizada junto con colectomía parcial (reportar por separado además del procedimiento principal)",Sin Cambios
+COLO,44227,"Laparoscopia quirúrgica, cierre de enterostomía, intestino grueso o delgado, con resección y anastomosis",Sin Cambios
+COLO,44320,Colostomía o cecostomía a nivel de piel,Sin Cambios
+COLO,44322,Colostomía o cecostomía a nivel de piel; con biopsias múltiples (ej. por megacolon congénito) (procedimiento separado),Sin Cambios
+COLO,44340,Revisión de colostomía; simple (liberación de cicatriz superficial) (procedimiento separado),Sin Cambios
+COLO,44345,Revisión de colostomía; complicada (reconstrucción profunda) (procedimiento separado),Sin Cambios
+COLO,44346,Revisión de colostomía; con reparación de hernia paracolostómica (procedimiento separado),Sin Cambios
+COLO,44604,"Sutura del intestino grueso (colorrafia) por úlcera perforada, divertículo, herida, lesión o ruptura (perforación única o múltiple); sin colostomía",Sin Cambios
+COLO,44605,"Sutura del intestino grueso (colorrafia) por úlcera perforada, divertículo, herida, lesión o ruptura (perforación única o múltiple); con colostomía",Sin Cambios
+COLO,44620,"Cierre de enterostomía, intestino grueso o delgado",Sin Cambios
+COLO,44625,"Cierre de enterostomía, intestino grueso o delgado; con resección y anastomosis distinta de colorrectal",Sin Cambios
+COLO,44626,"Cierre de enterostomía, intestino grueso o delgado; con resección y anastomosis colorrectal (ej. cierre de procedimiento tipo Hartmann)",Sin Cambios
+CRAN,61105,Orificio con taladro helicoidal para punción subdural o ventricular,Sin Cambios
+CRAN,61107,"Orificio(s) con taladro helicoidal para punción subdural, intracerebral o ventricular; para implantar catéter ventricular, dispositivo de registro de presión u otro dispositivo de monitoreo intracerebral",Sin Cambios
+CRAN,61108,"Orificio(s) con taladro helicoidal para punción subdural, intracerebral o ventricular; para evacuación y/o drenaje de hematoma subdural",Sin Cambios
+CRAN,61120,"Trépano(s) para punción ventricular (incluye inyección de gas, medio de contraste, colorante o material radiactivo)",Sin Cambios
+CRAN,61140,Trépano(s) o trefina; con biopsia de cerebro o lesión intracraneal,Sin Cambios
+CRAN,61150,Trépano(s) o trefina; con drenaje de absceso o quiste cerebral,Sin Cambios
+CRAN,61151,Trépano(s) o trefina; con punción (aspiración) posterior de absceso o quiste intracraneal,Sin Cambios
+CRAN,61154,Trépano(s) con evacuación y/o drenaje de hematoma extradural o subdural,Sin Cambios
+CRAN,61156,Trépano(s); con aspiración de hematoma o quiste intracerebral,Sin Cambios
+CRAN,61210,"Trépano(s); para implantar catéter ventricular, reservorio, electrodo(s) de EEG, dispositivo de registro de presión u otro dispositivo de monitoreo cerebral (procedimiento separado)",Sin Cambios
+CRAN,61250,"Trépano(s) o trefina, supratentorial, exploratorio, sin otra cirugía posterior",Sin Cambios
+CRAN,61253,"Trépano(s) o trefina, infratentorial, unilateral o bilateral",Sin Cambios
+CRAN,61304,Craniectomía o craneotomía exploratoria; supratentorial,Sin Cambios
+CRAN,61305,Craniectomía o craneotomía exploratoria; infratentorial (fosa posterior),Sin Cambios
+CRAN,61312,"Craniectomía o craneotomía para evacuación de hematoma, supratentorial; extradural o subdural",Sin Cambios
+CRAN,61313,"Craniectomía o craneotomía para evacuación de hematoma, supratentorial; intracerebral",Sin Cambios
+CRAN,61314,"Craniectomía o craneotomía para evacuación de hematoma, infratentorial; extradural o subdural",Sin Cambios
+CRAN,61315,"Craniectomía o craneotomía para evacuación de hematoma, infratentorial; intracerebeloso",Sin Cambios
+CRAN,61320,"Craniectomía o craneotomía, drenaje de absceso intracraneal; supratentorial",Sin Cambios
+CRAN,61321,"Craniectomía o craneotomía, drenaje de absceso intracraneal; infratentorial",Sin Cambios
+CRAN,61322,"Craniectomía o craneotomía descompresiva, con o sin duroplastia, para tratamiento de hipertensión intracraneal, sin evacuación de hematoma intraparenquimatoso asociado; sin lobectomía",Sin Cambios
+CRAN,61323,"Craniectomía o craneotomía descompresiva, con o sin duroplastia, para tratamiento de hipertensión intracraneal, sin evacuación de hematoma intraparenquimatoso asociado; con lobectomía",Sin Cambios
+CRAN,61330,"Descompresión solo de la órbita, abordaje transcraneal",Sin Cambios
+CRAN,61333,Exploración de la órbita (abordaje transcraneal); con extirpación de lesión,Sin Cambios
+CRAN,61340,"Descompresión craneal subtemporal (pseudotumor cerebral, síndrome de ventrículo en hendidura)",Sin Cambios
+CRAN,61343,"Craniectomía suboccipital con laminectomía cervical para descompresión del bulbo y médula espinal, con o sin injerto dural (ej. malformación de Arnold-Chiari)",Sin Cambios
+CRAN,61345,"Otra descompresión craneal, fosa posterior",Sin Cambios
+CRAN,61458,Craniectomía suboccipital; para exploración o descompresión de nervios craneales,Sin Cambios
+CRAN,61460,Para sección de 1 o más nervios craneales,Sin Cambios
+CRAN,61510,"Craniectomía, trepanación, craneotomía con colgajo óseo; para escisión de tumor cerebral supratentorial, excepto meningioma",Sin Cambios
+CRAN,61512,"Craniectomía, trepanación, craneotomía con colgajo óseo; para escisión de meningioma supratentorial",Sin Cambios
+CRAN,61514,"Craniectomía, trepanación, craneotomía con colgajo óseo; para escisión de absceso cerebral supratentorial",Sin Cambios
+CRAN,61516,"Craniectomía, trepanación, craneotomía con colgajo óseo; para escisión o fenestración de quiste supratentorial",Sin Cambios
+CRAN,61518,"Craniectomía para escisión de tumor cerebral, infratentorial o de fosa posterior; excepto meningioma, tumor del ángulo pontocerebeloso o tumor de línea media en la base del cráneo",Sin Cambios
+CRAN,61519,"Craniectomía para escisión de tumor cerebral, infratentorial o de fosa posterior; meningioma",Sin Cambios
+CRAN,61520,"Craniectomía para escisión de tumor cerebral, infratentorial o de fosa posterior; tumor del ángulo pontocerebeloso",Sin Cambios
+CRAN,61521,"Craniectomía para escisión de tumor cerebral, infratentorial o de fosa posterior; tumor de línea media en la base del cráneo",Sin Cambios
+CRAN,61522,Craniectomía infratentorial o de fosa posterior; para escisión de absceso cerebral,Sin Cambios
+CRAN,61524,Craniectomía infratentorial o de fosa posterior; para escisión o fenestración de quiste,Sin Cambios
+CRAN,61526,"Craniectomía, craneotomía con colgajo óseo, transtemporal (mastoidea) para escisión de tumor del ángulo pontocerebeloso",Sin Cambios
+CRAN,61530,"Craniectomía, craneotomía con colgajo óseo, transtemporal (mastoidea) para escisión de tumor del ángulo pontocerebeloso; combinada con craneotomía/craniectomía de fosa media/posterior",Sin Cambios
+CRAN,61531,Implante subdural de electrodos en tira a través de 1 o más trépanos para monitoreo prolongado de convulsiones,Sin Cambios
+CRAN,61533,"Craneotomía con elevación de colgajo óseo; para implante subdural de una matriz de electrodos, para monitoreo prolongado de convulsiones",Sin Cambios
+CRAN,61534,Craneotomía con elevación de colgajo óseo; para escisión de foco epileptógeno sin electrocorticografía durante la cirugía,Sin Cambios
+CRAN,61535,"Craneotomía con elevación de colgajo óseo; para retiro de matriz de electrodos epidural o subdural, sin escisión de tejido cerebral (procedimiento separado)",Sin Cambios
+CRAN,61536,"Craneotomía con elevación de colgajo óseo; para escisión de foco epileptógeno cerebral, con electrocorticografía durante la cirugía (incluye retiro de la matriz de electrodos)",Sin Cambios
+CRAN,61537,"Craneotomía con elevación de colgajo óseo; para lobectomía temporal, sin electrocorticografía durante la cirugía",Sin Cambios
+CRAN,61538,"Craneotomía con elevación de colgajo óseo; para lobectomía temporal, con electrocorticografía durante la cirugía",Sin Cambios
+CRAN,61539,"Craneotomía con elevación de colgajo óseo; para lobectomía distinta del lóbulo temporal, parcial o total, con electrocorticografía durante la cirugía",Sin Cambios
+CRAN,61540,"Craneotomía con elevación de colgajo óseo; para lobectomía distinta del lóbulo temporal, parcial o total, sin electrocorticografía durante la cirugía",Sin Cambios
+CRAN,61541,Craneotomía con elevación de colgajo óseo; para sección del cuerpo calloso,Sin Cambios
+CRAN,61543,Craneotomía con elevación de colgajo óseo; para hemisferectomía parcial o subtotal (funcional),Sin Cambios
+CRAN,61544,Craneotomía con elevación de colgajo óseo; para escisión o coagulación del plexo coroideo,Sin Cambios
+CRAN,61545,Craneotomía con elevación de colgajo óseo; para escisión de craneofaringioma,Sin Cambios
+CRAN,61546,"Craneotomía para hipofisectomía o escisión de tumor hipofisario, abordaje intracraneal",Sin Cambios
+CRAN,61548,"Hipofisectomía o escisión de tumor hipofisario, abordaje transnasal o transeptal, no estereotáctico",Sin Cambios
+CRAN,61566,Craneotomía con elevación de colgajo óseo; para amigdalohipocampectomía selectiva,Sin Cambios
+CRAN,61567,"Craneotomía con elevación de colgajo óseo; para transecciones subpiales múltiples, con electrocorticografía durante la cirugía",Sin Cambios
+CRAN,61570,Craniectomía o craneotomía; con extracción de cuerpo extraño del cerebro,Sin Cambios
+CRAN,61571,Craniectomía o craneotomía; con tratamiento de herida penetrante del cerebro,Sin Cambios
+CRAN,61575,"Abordaje transoral de base de cráneo, tronco encefálico o médula espinal superior para biopsia, descompresión o escisión de lesión",Sin Cambios
+CRAN,61576,"Abordaje transoral de base de cráneo, tronco encefálico o médula espinal superior para biopsia, descompresión o escisión de lesión; requiere división de lengua y/o mandíbula (incluye traqueostomía)",Sin Cambios
+CRAN,61580,"Abordaje craneofacial a la fosa craneal anterior; extradural, incluye rinotomía lateral, etmoidectomía, esfenoidectomía, sin maxilectomía ni exenteración orbitaria",Sin Cambios
+CRAN,61581,"Abordaje craneofacial a la fosa craneal anterior; extradural, incluye rinotomía lateral, exenteración orbitaria, etmoidectomía, esfenoidectomía y/o maxilectomía",Sin Cambios
+CRAN,61582,"Abordaje craneofacial a la fosa craneal anterior; extradural, incluye craneotomía unilateral o bifrontal, elevación de lóbulo(s) frontal(es), osteotomía de la base de la fosa craneal anterior",Sin Cambios
+CRAN,61583,"Abordaje craneofacial a la fosa craneal anterior; intradural, incluye craneotomía unilateral o bifrontal, elevación o resección del lóbulo frontal, osteotomía de la base de la fosa craneal anterior",Sin Cambios
+CRAN,61584,"Abordaje orbitocraneal a la fosa craneal anterior, extradural, incluye osteotomía del reborde supraorbitario y elevación de lóbulo(s) frontal(es) y/o temporal(es); sin exenteración orbitaria",Sin Cambios
+CRAN,61585,"Abordaje orbitocraneal a la fosa craneal anterior, extradural, incluye osteotomía del reborde supraorbitario y elevación de lóbulo(s) frontal(es) y/o temporal(es); con exenteración orbitaria",Sin Cambios
+CRAN,61586,"Abordaje bicoronal, transcigomático y/o por osteotomía LeFort I a la fosa craneal anterior, con o sin fijación interna, sin injerto óseo",Sin Cambios
+CRAN,61590,"Abordaje infratemporal preauricular a la fosa craneal media (espacio parafaríngeo, base de cráneo infratemporal y de línea media, nasofaringe), con o sin desarticulación de la mandíbula, incluye parotidectomía, craneotomía, descompresión y/o movilización",Sin Cambios
+CRAN,61591,"Abordaje infratemporal retroauricular a la fosa craneal media (conducto auditivo interno, ápex petroso, tentorio, seno cavernoso, área paraselar, fosa infratemporal) incluye mastoidectomía, resección del seno sigmoideo, con o sin descompresión",Sin Cambios
+CRAN,61592,"Abordaje orbitocraneal cigomático a la fosa craneal media (seno cavernoso y arteria carótida, clivus, arteria basilar o ápex petroso) incluye osteotomía del cigoma, craneotomía, elevación extra o intradural del lóbulo temporal",Sin Cambios
+CRAN,61595,"Abordaje transtemporal a la fosa craneal posterior, agujero yugular o base de cráneo de línea media, incluye mastoidectomía, descompresión del seno sigmoideo y/o nervio facial, con o sin movilización",Sin Cambios
+CRAN,61598,"Abordaje transpetroso a la fosa craneal posterior, clivus o agujero magno, incluye ligadura del seno petroso superior y/o seno sigmoideo",Sin Cambios
+CRAN,61600,"Resección o escisión de lesión neoplásica, vascular o infecciosa de la base de la fosa craneal anterior; extradural",Sin Cambios
+CRAN,61601,"Resección o escisión de lesión neoplásica, vascular o infecciosa de la base de la fosa craneal anterior; intradural, incluye reparación dural, con o sin injerto",Sin Cambios
+CRAN,61605,"Resección o escisión de lesión neoplásica, vascular o infecciosa de fosa infratemporal, espacio parafaríngeo, ápex petroso; extradural",Sin Cambios
+CRAN,61606,"Resección o escisión de lesión neoplásica, vascular o infecciosa de fosa infratemporal, espacio parafaríngeo, ápex petroso; intradural, incluye reparación dural, con o sin injerto",Sin Cambios
+CRAN,61607,"Resección o escisión de lesión neoplásica, vascular o infecciosa del área paraselar, seno cavernoso, clivus o base de cráneo de línea media; extradural",Sin Cambios
+CRAN,61608,"Resección o escisión de lesión neoplásica, vascular o infecciosa del área paraselar, seno cavernoso, clivus o base de cráneo de línea media; intradural, incluye reparación dural, con o sin injerto",Sin Cambios
+CRAN,61615,"Resección o escisión de lesión neoplásica, vascular o infecciosa de la base de la fosa craneal posterior, agujero yugular, agujero magno o cuerpos vertebrales C1-C3; extradural",Sin Cambios
+CRAN,61616,"Resección o escisión de lesión neoplásica, vascular o infecciosa de la base de la fosa craneal posterior, agujero yugular, agujero magno o cuerpos vertebrales C1-C3; intradural, incluye reparación dural, con o sin injerto",Sin Cambios
+CRAN,61618,"Reparación secundaria de duramadre por fuga de líquido cefalorraquídeo, fosa craneal anterior, media o posterior, tras cirugía de base de cráneo; con injerto de tejido libre (ej. pericráneo, fascia, fascia lata, tejido adiposo, injertos homólogos o sintéticos)",Sin Cambios
+CRAN,61619,"Reparación secundaria de duramadre por fuga de líquido cefalorraquídeo, fosa craneal anterior, media o posterior, tras cirugía de base de cráneo; con colgajo pediculado vascularizado local o regional o colgajo miocutáneo (incluye gálea, temporal, frontal u occipital)",Sin Cambios
+CRAN,61680,"Cirugía de malformación arteriovenosa intracraneal; supratentorial, simple",Sin Cambios
+CRAN,61682,"Cirugía de malformación arteriovenosa intracraneal; supratentorial, compleja",Sin Cambios
+CRAN,61684,"Cirugía de malformación arteriovenosa intracraneal; infratentorial, simple",Sin Cambios
+CRAN,61686,"Cirugía de malformación arteriovenosa intracraneal; infratentorial, compleja",Sin Cambios
+CRAN,61690,"Cirugía de malformación arteriovenosa intracraneal; dural, simple",Sin Cambios
+CRAN,61692,"Cirugía de malformación arteriovenosa intracraneal; dural, compleja",Sin Cambios
+CRAN,61697,"Cirugía de aneurisma intracraneal complejo, abordaje intracraneal; circulación carotídea",Sin Cambios
+CRAN,61698,"Cirugía de aneurisma intracraneal complejo, abordaje intracraneal; circulación vertebrobasilar",Sin Cambios
+CRAN,61700,"Cirugía de aneurisma intracraneal simple, abordaje intracraneal; circulación carotídea",Sin Cambios
+CRAN,61702,"Cirugía de aneurisma intracraneal simple, abordaje intracraneal; circulación vertebrobasilar",Sin Cambios
+CRAN,61703,"Cirugía de aneurisma intracraneal, abordaje cervical mediante aplicación de pinza oclusora en la arteria carótida cervical (tipo Selverstone-Crutchfield)",Sin Cambios
+CRAN,61705,"Cirugía de aneurisma, malformación vascular o fístula carótido-cavernosa; mediante oclusión intracraneal y cervical de la arteria carótida",Sin Cambios
+CRAN,61708,"Cirugía de aneurisma, malformación vascular o fístula carótido-cavernosa; mediante electrotrombosis intracraneal",Sin Cambios
+CRAN,61710,"Cirugía de aneurisma, malformación vascular o fístula carótido-cavernosa; mediante embolización intraarterial, procedimiento de inyección o catéter balón",Sin Cambios
+CRAN,61711,Anastomosis arterial extracraneal-intracraneal (ej. arterias cerebral media/corticales),Sin Cambios
+CRAN,61720,"Creación de lesión por método estereotáctico, incluye trépano(s) y técnicas de localización y registro, una o varias etapas; globo pálido o tálamo",Sin Cambios
+CRAN,61735,"Creación de lesión por método estereotáctico, incluye trépano(s) y técnicas de localización y registro, una o varias etapas; estructura(s) subcortical(es) distinta(s) del globo pálido o tálamo",Sin Cambios
+CRAN,61736,"Terapia térmica intersticial con láser (LITT) de trayectoria única de 1 lesión intracraneal simple, incluye trépano, con guía por resonancia magnética",Sin cambios
+CRAN,61737,"Terapia térmica intersticial con láser (LITT) de trayectoria múltiple de lesión intracraneal compleja, incluye trépano",Sin cambios
+CRAN,61750,"Biopsia, aspiración o escisión estereotáctica, incluye trépano(s), de lesión intracraneal",Sin Cambios
+CRAN,61751,"Biopsia, aspiración o escisión estereotáctica, incluye trépano(s), de lesión intracraneal; con guía por tomografía computarizada y/o resonancia magnética",Sin Cambios
+CRAN,61760,Implante estereotáctico de electrodos profundos en el cerebro para monitoreo prolongado de convulsiones,Sin Cambios
+CRAN,61770,"Localización estereotáctica, incluye trépano(s), con inserción de catéter(es) o sonda(s) para colocación de fuente de radiación",Sin Cambios
+CRAN,61850,"Taladro helicoidal o trépano(s) para implante de electrodos de neuroestimulador, corticales",Sin Cambios
+CRAN,61860,"Craniectomía o craneotomía para implante de electrodos de neuroestimulador, cerebrales, corticales",Sin Cambios
+CRAN,61863,"Taladro helicoidal, trépano, craneotomía o craniectomía con implante estereotáctico de matriz de electrodos de neuroestimulador en sitio subcortical (ej. tálamo, globo pálido, núcleo subtalámico, periventricular, sustancia gris periacueductal), sin registro intraoperatorio con microelectrodos; primera matriz",Sin Cambios
+CRAN,61867,"Taladro helicoidal, trépano, craneotomía o craniectomía con implante estereotáctico de matriz de electrodos de neuroestimulador en sitio subcortical (ej. tálamo, globo pálido, núcleo subtalámico, periventricular, sustancia gris periacueductal), con registro intraoperatorio con microelectrodos; primera matriz",Sin Cambios
+CRAN,61870,"Craniectomía para implante de electrodos de neuroestimulador, cerebelosos; corticales",Sin Cambios
+CRAN,61880,Revisión o retiro de electrodos de neuroestimulador intracraneal,Sin Cambios
+CRAN,62000,"Elevación de fractura de cráneo hundida; simple, extradural",Sin Cambios
+CRAN,62005,"Elevación de fractura de cráneo hundida; compuesta o conminuta, extradural",Sin Cambios
+CRAN,62010,Elevación de fractura de cráneo hundida; con reparación de duramadre y/o desbridamiento cerebral,Sin Cambios
+CRAN,62100,"Craneotomía para reparación de fuga dural/de líquido cefalorraquídeo, incluye cirugía por rinorrea/otorrea",Sin Cambios
+CRAN,62120,"Reparación de encefalocele, bóveda craneal, incluye craneoplastia",Sin Cambios
+CRAN,62121,"Craneotomía para reparación de encefalocele, base de cráneo",Sin Cambios
+CRAN,62161,"Neuroendoscopia intracraneal; con disección de adherencias, fenestración del septum pellucidum o quistes intraventriculares (incluye colocación, reemplazo o retiro de catéter ventricular)",Sin Cambios
+CRAN,62163,Neuroendoscopia intracraneal; con extracción de cuerpo extraño,Sin Cambios
+CRAN,62164,"Neuroendoscopia intracraneal; con escisión de tumor cerebral, incluye colocación de catéter ventricular externo para drenaje",Sin Cambios
+CRAN,62165,"Neuroendoscopia intracraneal; con escisión de tumor hipofisario, abordaje transnasal o transesfenoidal",Sin Cambios
+CRAN,62200,Ventriculocisternostomía del tercer ventrículo,Sin Cambios
+CRAN,62201,"Ventriculocisternostomía del tercer ventrículo; método estereotáctico, neuroendoscópico",Sin Cambios
+CSEC,59100,"Histerotomía abdominal (ej. por mola hidatiforme, aborto)",Sin Cambios
+CSEC,59510,"Atención obstétrica de rutina que incluye atención prenatal, parto por cesárea y atención posparto",Sin Cambios
+CSEC,59514,Solo parto por cesárea,Sin Cambios
+CSEC,59515,Solo parto por cesárea; incluye atención posparto,Sin Cambios
+CSEC,59618,"Atención obstétrica de rutina que incluye atención prenatal, parto por cesárea y atención posparto, tras intento de parto vaginal después de cesárea previa",Sin Cambios
+CSEC,59620,"Solo parto por cesárea, tras intento de parto vaginal después de cesárea previa",Sin Cambios
+CSEC,59622,"Solo parto por cesárea, tras intento de parto vaginal después de cesárea previa; incluye atención posparto",Sin Cambios
+CSEC,59857,"Aborto inducido con 1 o más supositorios vaginales (ej. prostaglandina) con o sin dilatación cervical (ej. laminaria), incluye ingreso hospitalario y visitas, expulsión del feto y secundinas; con histerotomía (evacuación médica fallida)",Sin Cambios
+FUSN,22532,"Artrodesis, técnica lateral extracavitaria, incluye discectomía mínima para preparar el espacio intervertebral (no para descompresión); torácica",Sin Cambios
+FUSN,22533,"Artrodesis, técnica lateral extracavitaria, incluye discectomía mínima para preparar el espacio intervertebral (no para descompresión); lumbar",Sin Cambios
+FUSN,22548,"Artrodesis, técnica anterior transoral o extraoral, clivus-C1-C2 (atlas-axis), con o sin escisión de la apófisis odontoides",Sin Cambios
+FUSN,22551,"Artrodesis intersomática anterior, incluye preparación del espacio discal, discectomía, osteofitectomía y descompresión de médula espinal y/o raíces nerviosas; cervical por debajo de C2",Sin Cambios
+FUSN,22554,"Artrodesis, técnica intersomática anterior, incluye discectomía mínima para preparar el espacio intervertebral (no para descompresión); cervical por debajo de C2",Sin Cambios
+FUSN,22556,"Artrodesis, técnica intersomática anterior, incluye discectomía mínima para preparar el espacio intervertebral (no para descompresión); torácica",Sin Cambios
+FUSN,22558,"Artrodesis, técnica intersomática anterior, incluye discectomía mínima para preparar el espacio intervertebral (no para descompresión); lumbar",Sin Cambios
+FUSN,22586,"Artrodesis, técnica intersomática presacra, incluye preparación del espacio discal, discectomía, con instrumentación posterior, con guía por imagen, incluye injerto óseo cuando se realiza, espacio L5-S1",Sin Cambios
+FUSN,22590,"Artrodesis, técnica posterior, craneocervical (occipucio-C2)",Sin Cambios
+FUSN,22595,"Artrodesis, técnica posterior, atlas-axis (C1-C2)",Sin Cambios
+FUSN,22600,"Artrodesis, técnica posterior o posterolateral, un nivel; segmento cervical por debajo de C2",Sin Cambios
+FUSN,22610,"Artrodesis, técnica posterior o posterolateral, un nivel; torácica (con técnica transversa lateral, cuando se realiza)",Sin Cambios
+FUSN,22612,"Artrodesis, técnica posterior o posterolateral, un nivel; lumbar (con técnica transversa lateral, cuando se realiza)",Sin Cambios
+FUSN,22630,"Artrodesis, técnica intersomática posterior, incluye laminectomía y/o discectomía para preparar el espacio intervertebral (no para descompresión), un espacio; lumbar",Sin Cambios
+FUSN,22633,"Artrodesis, técnica posterior o posterolateral combinada con técnica intersomática posterior, incluye laminectomía y/o discectomía para preparar el espacio intervertebral (no para descompresión), un espacio y segmento; lumbar",Sin Cambios
+FUSN,22800,"Artrodesis posterior por deformidad de columna, con o sin yeso; hasta 6 segmentos vertebrales",Sin Cambios
+FUSN,22802,"Artrodesis posterior por deformidad de columna, con o sin yeso; de 7 a 12 segmentos vertebrales",Sin Cambios
+FUSN,22804,"Artrodesis posterior por deformidad de columna, con o sin yeso; 13 o más segmentos vertebrales",Sin Cambios
+FUSN,22808,"Artrodesis anterior por deformidad de columna, con o sin yeso; de 2 a 3 segmentos vertebrales",Sin Cambios
+FUSN,22810,"Artrodesis anterior por deformidad de columna, con o sin yeso; de 4 a 7 segmentos vertebrales",Sin Cambios
+FUSN,22812,"Artrodesis anterior por deformidad de columna, con o sin yeso; 8 o más segmentos vertebrales",Sin Cambios
+FUSN,27280,"Artrodesis abierta de la articulación sacroilíaca, incluye obtención de injerto óseo e instrumentación, cuando se realiza",Sin Cambios
+FX,23615,"Tratamiento abierto de fractura proximal de húmero (cuello quirúrgico o anatómico), incluye fijación interna y reparación de tuberosidad(es), cuando se realiza",Sin Cambios
+FX,23616,"Tratamiento abierto de fractura proximal de húmero (cuello quirúrgico o anatómico), incluye fijación interna y reparación de tuberosidad(es), cuando se realiza; con reemplazo protésico de húmero proximal",Sin Cambios
+FX,23630,"Tratamiento abierto de fractura de la tuberosidad mayor del húmero, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,23670,"Tratamiento abierto de luxación de hombro con fractura de la tuberosidad mayor del húmero, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,23680,"Tratamiento abierto de luxación de hombro con fractura del cuello quirúrgico o anatómico, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,24515,"Tratamiento abierto de fractura de diáfisis humeral con placa/tornillos, con o sin cerclaje",Sin Cambios
+FX,24516,"Tratamiento de fractura de diáfisis humeral con inserción de implante intramedular, con o sin cerclaje y/o tornillos de bloqueo",Sin Cambios
+FX,24545,"Tratamiento abierto de fractura supracondílea o transcondílea de húmero, incluye fijación interna, cuando se realiza; sin extensión intercondílea",Sin Cambios
+FX,24546,"Tratamiento abierto de fractura supracondílea o transcondílea de húmero, incluye fijación interna, cuando se realiza; con extensión intercondílea",Sin Cambios
+FX,24575,"Tratamiento abierto de fractura epicondílea de húmero, medial o lateral, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,24579,"Tratamiento abierto de fractura condílea de húmero, medial o lateral, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,24586,Tratamiento abierto de fractura periarticular y/o luxación del codo (fractura de húmero distal y cúbito proximal y/o radio proximal),Sin Cambios
+FX,24587,Tratamiento abierto de fractura periarticular y/o luxación del codo (fractura de húmero distal y cúbito proximal y/o radio proximal); con artroplastia con implante,Sin Cambios
+FX,24635,"Tratamiento abierto de fractura-luxación tipo Monteggia del codo (fractura del extremo proximal del cúbito con luxación de la cabeza radial), incluye fijación interna, cuando se realiza",Sin Cambios
+FX,24665,"Tratamiento abierto de fractura de cabeza o cuello del radio, incluye fijación interna o escisión de la cabeza radial, cuando se realiza",Sin Cambios
+FX,24666,"Tratamiento abierto de fractura de cabeza o cuello del radio, incluye fijación interna o escisión de la cabeza radial, cuando se realiza; con reemplazo protésico de la cabeza radial",Sin Cambios
+FX,24685,"Tratamiento abierto de fractura del cúbito, extremo proximal (ej. olécranon o apófisis coronoides), incluye fijación interna, cuando se realiza",Sin Cambios
+FX,25337,"Reconstrucción para estabilización de cúbito distal inestable o articulación radiocubital distal, secundaria mediante estabilización de tejidos blandos (ej. transferencia, injerto o entrelazado de tendón, o tenodesis) con o sin reducción abierta de la articulación radiocubital distal",Sin Cambios
+FX,25515,"Tratamiento abierto de fractura de diáfisis del radio, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,25525,"Tratamiento abierto de fractura de diáfisis del radio, incluye fijación interna, cuando se realiza, y tratamiento abierto de luxación de la articulación radiocubital distal (fractura-luxación de Galeazzi), incluye fijación esquelética percutánea cuando se realiza",Sin Cambios
+FX,25526,"Tratamiento abierto de fractura de diáfisis del radio, incluye fijación interna, cuando se realiza, y tratamiento abierto de luxación de la articulación radiocubital distal (fractura-luxación de Galeazzi), incluye fijación interna, cuando se realiza, incluye reparación del complejo del fibrocartílago triangular",Sin Cambios
+FX,25545,"Tratamiento abierto de fractura de diáfisis del cúbito, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,25574,"Tratamiento abierto de fracturas de diáfisis de radio Y cúbito, con fijación interna, cuando se realiza; de radio O cúbito",Sin Cambios
+FX,25575,"Tratamiento abierto de fracturas de diáfisis de radio Y cúbito, con fijación interna, cuando se realiza; de radio Y cúbito",Sin Cambios
+FX,25607,"Tratamiento abierto de fractura extraarticular distal del radio o separación epifisaria, con fijación interna",Sin Cambios
+FX,25608,Tratamiento abierto de fractura intraarticular distal del radio o separación epifisaria; con fijación interna de 2 fragmentos,Sin Cambios
+FX,25609,Tratamiento abierto de fractura intraarticular distal del radio o separación epifisaria; con fijación interna de 3 o más fragmentos,Sin Cambios
+FX,25652,Tratamiento abierto de fractura de la apófisis estiloides cubital,Sin Cambios
+FX,27177,Tratamiento abierto de epifisiolisis femoral; fijación con uno o varios clavos o injerto óseo (incluye obtención del injerto),Sin Cambios
+FX,27178,Tratamiento abierto de epifisiolisis femoral; manipulación cerrada con fijación de uno o varios clavos,Sin Cambios
+FX,27179,Tratamiento abierto de epifisiolisis femoral; osteoplastia del cuello femoral (procedimiento tipo Heyman),Sin Cambios
+FX,27181,Tratamiento abierto de epifisiolisis femoral; osteotomía y fijación interna,Sin Cambios
+FX,27244,"Tratamiento de fractura femoral intertrocantérea, peritrocantérea o subtrocantérea; con implante tipo placa/tornillo, con o sin cerclaje",Sin Cambios
+FX,27245,"Tratamiento de fractura femoral intertrocantérea, peritrocantérea o subtrocantérea; con implante intramedular, con o sin tornillos de bloqueo y/o cerclaje",Sin Cambios
+FX,27248,"Tratamiento abierto de fractura del trocánter mayor, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27254,"Tratamiento abierto de luxación traumática de cadera, con fractura de pared acetabular y cabeza femoral, con o sin fijación interna o externa",Sin Cambios
+FX,27269,"Tratamiento abierto de fractura femoral, extremo proximal, cabeza, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27506,"Tratamiento abierto de fractura de diáfisis femoral, con o sin fijación externa, con inserción de implante intramedular, con o sin cerclaje y/o tornillos de bloqueo",Sin Cambios
+FX,27507,"Tratamiento abierto de fractura de diáfisis femoral con placa/tornillos, con o sin cerclaje",Sin Cambios
+FX,27511,"Tratamiento abierto de fractura femoral supracondílea o transcondílea sin extensión intercondílea, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27513,"Tratamiento abierto de fractura femoral supracondílea o transcondílea con extensión intercondílea, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27514,"Tratamiento abierto de fractura femoral, extremo distal, cóndilo medial o lateral, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27519,"Tratamiento abierto de separación epifisaria femoral distal, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27535,"Tratamiento abierto de fractura de tibia proximal (meseta); unicondílea, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27536,"Tratamiento abierto de fractura de tibia proximal (meseta); bicondílea, con o sin fijación interna",Sin Cambios
+FX,27540,"Tratamiento abierto de fractura(s) de espina(s) intercondílea(s) y/o tuberosidad de la rodilla, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27758,"Tratamiento abierto de fractura de diáfisis tibial (con o sin fractura de peroné), con placa/tornillos, con o sin cerclaje",Sin Cambios
+FX,27759,"Tratamiento de fractura de diáfisis tibial (con o sin fractura de peroné) con implante intramedular, con o sin tornillos de bloqueo y/o cerclaje",Sin Cambios
+FX,27766,"Tratamiento abierto de fractura del maléolo medial, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27769,"Tratamiento abierto de fractura del maléolo posterior, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27784,"Tratamiento abierto de fractura proximal o de diáfisis del peroné, incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27792,"Tratamiento abierto de fractura distal del peroné (maléolo lateral), incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27814,"Tratamiento abierto de fractura bimaleolar de tobillo (ej. maléolos lateral y medial, lateral y posterior, o medial y posterior), incluye fijación interna, cuando se realiza",Sin Cambios
+FX,27822,"Tratamiento abierto de fractura trimaleolar de tobillo, incluye fijación interna, cuando se realiza, maléolo medial y/o lateral; sin fijación del labio posterior",Sin Cambios
+FX,27823,"Tratamiento abierto de fractura trimaleolar de tobillo, incluye fijación interna, cuando se realiza, maléolo medial y/o lateral; con fijación del labio posterior",Sin Cambios
+FX,27826,"Tratamiento abierto de fractura de la superficie articular de carga de la tibia distal (ej. pilón o plafón tibial), con fijación interna, cuando se realiza; solo del peroné",Sin Cambios
+FX,27827,"Tratamiento abierto de fractura de la superficie articular de carga de la tibia distal (ej. pilón o plafón tibial), con fijación interna, cuando se realiza; solo de la tibia",Sin Cambios
+FX,27828,"Tratamiento abierto de fractura de la superficie articular de carga de la tibia distal (ej. pilón o plafón tibial), con fijación interna, cuando se realiza; de tibia y peroné",Sin Cambios
+FX,27829,"Tratamiento abierto de lesión de la articulación tibioperonea distal (sindesmosis), incluye fijación interna, cuando se realiza",Sin Cambios
+GAST,43117,"Esofagectomía parcial, dos tercios distales, con toracotomía e incisión abdominal separada, con o sin gastrectomía proximal; con esofagogastrostomía torácica, con o sin piloroplastia (Ivor Lewis)",Sin Cambios
+GAST,43118,"Esofagectomía parcial, dos tercios distales, con toracotomía e incisión abdominal separada, con o sin gastrectomía proximal; con interposición de colon o reconstrucción con intestino delgado, incluye movilización, preparación y anastomosis intestinal(es)",Sin Cambios
+GAST,43121,"Esofagectomía parcial, dos tercios distales, solo con toracotomía, con o sin gastrectomía proximal, con esofagogastrostomía torácica, con o sin piloroplastia",Sin Cambios
+GAST,43122,"Esofagectomía parcial, abordaje toracoabdominal o abdominal, con o sin gastrectomía proximal; con esofagogastrostomía, con o sin piloroplastia",Sin Cambios
+GAST,43286,"Esofagectomía total o casi total, con movilización laparoscópica del esófago abdominal y mediastínico y gastrectomía proximal, con drenaje pilórico laparoscópico si se realiza, con faringogastrostomía o esofagogastrostomía cervical abierta (esofagectomía transhiatal laparoscópica)",Sin Cambios
+GAST,43287,"Esofagectomía de dos tercios distales, con movilización laparoscópica del esófago abdominal y mediastínico inferior y gastrectomía proximal, con drenaje pilórico laparoscópico si se realiza, con movilización toracoscópica separada del esófago mediastínico medio y superior y esofagogastrostomía torácica (esofagectomía laparoscópica-toracoscópica, Ivor Lewis)",Sin Cambios
+GAST,43288,"Esofagectomía total o casi total, con movilización toracoscópica del esófago mediastínico superior, medio e inferior, con gastrectomía proximal laparoscópica separada, con drenaje pilórico laparoscópico si se realiza, con faringogastrostomía o esofagogastrostomía cervical abierta (esofagectomía de McKeown, triincisional)",Sin Cambios
+GAST,43320,"Esofagogastrostomía (cardioplastia), con o sin vagotomía y piloroplastia, abordaje transabdominal o transtorácico",Sin Cambios
+GAST,43360,"Reconstrucción gastrointestinal por esofagectomía previa, por lesión o fístula esofágica obstructiva, o por exclusión esofágica previa; con estómago, con o sin piloroplastia",Sin Cambios
+GAST,43500,Gastrotomía; con exploración o retiro de cuerpo extraño,Sin Cambios
+GAST,43501,Gastrotomía; con sutura de úlcera sangrante,Sin Cambios
+GAST,43502,Gastrotomía; con sutura de laceración esofagogástrica preexistente (ej. Mallory-Weiss),Sin Cambios
+GAST,43520,"Piloromiotomía, sección del músculo pilórico (operación tipo Fredet-Ramstedt)",Sin Cambios
+GAST,43605,Biopsia de estómago por laparotomía,Sin Cambios
+GAST,43610,Escisión local; úlcera o tumor benigno de estómago,Sin Cambios
+GAST,43611,Escisión local; tumor maligno de estómago,Sin Cambios
+GAST,43620,Gastrectomía total; con esofagoenterostomía,Sin Cambios
+GAST,43621,Gastrectomía total; con reconstrucción en Y de Roux,Sin Cambios
+GAST,43622,"Gastrectomía total; con formación de reservorio intestinal, cualquier tipo",Sin Cambios
+GAST,43631,Gastrectomía parcial distal; con gastroduodenostomía,Sin Cambios
+GAST,43632,Gastrectomía parcial distal; con gastroyeyunostomía,Sin Cambios
+GAST,43633,Gastrectomía parcial distal; con reconstrucción en Y de Roux,Sin Cambios
+GAST,43634,Gastrectomía parcial distal; con formación de reservorio intestinal,Sin Cambios
+GAST,43640,"Vagotomía con piloroplastia, con o sin gastrostomía; troncular o selectiva",Sin Cambios
+GAST,43641,"Vagotomía con piloroplastia, con o sin gastrostomía; de células parietales (altamente selectiva)",Sin Cambios
+GAST,43644,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; con bypass gástrico y gastroenterostomía en Y de Roux (asa de Roux de 150 cm o menos)",Sin Cambios
+GAST,43645,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; con bypass gástrico y reconstrucción del intestino delgado para limitar la absorción",Sin Cambios
+GAST,43770,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; colocación de dispositivo gástrico restrictivo ajustable (ej. banda gástrica y puerto subcutáneo)",Sin Cambios
+GAST,43771,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; revisión solo del componente del dispositivo gástrico restrictivo ajustable",Sin Cambios
+GAST,43772,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; retiro solo del componente del dispositivo gástrico restrictivo ajustable",Sin Cambios
+GAST,43773,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; retiro y reemplazo solo del componente del dispositivo gástrico restrictivo ajustable",Sin Cambios
+GAST,43774,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; retiro del dispositivo gástrico restrictivo ajustable y del puerto subcutáneo",Sin Cambios
+GAST,43775,"Laparoscopia quirúrgica, procedimiento gástrico restrictivo; gastrectomía longitudinal (manga gástrica)",Sin Cambios
+GAST,43800,Piloroplastia,Sin Cambios
+GAST,43810,Gastroduodenostomía,Sin Cambios
+GAST,43820,Gastroyeyunostomía; sin vagotomía,Sin Cambios
+GAST,43825,"Gastroyeyunostomía; con vagotomía, cualquier tipo",Sin Cambios
+GAST,43840,"Gastrorrafia, sutura de úlcera duodenal o gástrica perforada, herida o lesión",Sin Cambios
+GAST,43842,"Procedimiento gástrico restrictivo, sin bypass gástrico, por obesidad mórbida; gastroplastia vertical con banda",Sin Cambios
+GAST,43843,"Procedimiento gástrico restrictivo, sin bypass gástrico, por obesidad mórbida; distinto de gastroplastia vertical con banda",Sin Cambios
+GAST,43845,"Procedimiento gástrico restrictivo con gastrectomía parcial, duodenoileostomía con preservación del píloro e ileoileostomía (canal común de 50 a 100 cm) para limitar la absorción (derivación biliopancreática con cruce duodenal)",Sin Cambios
+GAST,43847,Procedimiento gástrico restrictivo con bypass gástrico por obesidad mórbida; con reconstrucción del intestino delgado para limitar la absorción,Sin Cambios
+GAST,43848,"Revisión abierta de procedimiento gástrico restrictivo por obesidad mórbida, distinto de dispositivo gástrico restrictivo ajustable (procedimiento separado)",Sin Cambios
+GAST,43860,"Revisión de anastomosis gastroyeyunal (gastroyeyunostomía) con reconstrucción, con o sin gastrectomía parcial o resección intestinal; sin vagotomía",Sin Cambios
+GAST,43865,"Revisión de anastomosis gastroyeyunal (gastroyeyunostomía) con reconstrucción, con o sin gastrectomía parcial o resección intestinal; con vagotomía",Sin Cambios
+GAST,43870,Cierre quirúrgico de gastrostomía,Sin Cambios
+GAST,43880,Cierre de fístula gastrocólica,Sin Cambios
+GAST,43886,Procedimiento gástrico restrictivo abierto; revisión solo del puerto subcutáneo,Sin Cambios
+GAST,43887,Procedimiento gástrico restrictivo abierto; retiro solo del puerto subcutáneo,Sin Cambios
+GAST,43888,Procedimiento gástrico restrictivo abierto; retiro y reemplazo solo del puerto subcutáneo,Sin Cambios
+HER,11008,Retiro de material protésico o malla de la pared abdominal por infección (ej. infección crónica o recurrente de malla o infección necrotizante de tejidos blandos) (reportar por separado además del código del procedimiento principal),Sin Cambios
+HER,49491,"Reparación de hernia inguinal inicial, lactante prematuro (menos de 37 semanas de gestación al nacer), realizada desde el nacimiento hasta 50 semanas de edad posconcepcional, con o sin hidrocelectomía; reducible",Sin Cambios
+HER,49492,"Reparación de hernia inguinal inicial, lactante prematuro (menos de 37 semanas de gestación al nacer), realizada desde el nacimiento hasta 50 semanas de edad posconcepcional, con o sin hidrocelectomía; encarcelada o estrangulada",Sin Cambios
+HER,49495,"Reparación de hernia inguinal inicial, lactante a término menor de 6 meses, o prematuro mayor de 50 semanas posconcepcionales y menor de 6 meses al momento de la cirugía, con o sin hidrocelectomía; reducible",Sin Cambios
+HER,49496,"Reparación de hernia inguinal inicial, lactante a término menor de 6 meses, o prematuro mayor de 50 semanas posconcepcionales y menor de 6 meses al momento de la cirugía, con o sin hidrocelectomía; encarcelada o estrangulada",Sin Cambios
+HER,49500,"Reparación de hernia inguinal inicial, de 6 meses a menos de 5 años, con o sin hidrocelectomía; reducible",Sin Cambios
+HER,49501,"Reparación de hernia inguinal inicial, de 6 meses a menos de 5 años, con o sin hidrocelectomía; encarcelada o estrangulada",Sin Cambios
+HER,49505,"Reparación de hernia inguinal inicial, 5 años o más; reducible",Sin Cambios
+HER,49507,"Reparación de hernia inguinal inicial, 5 años o más; encarcelada o estrangulada",Sin Cambios
+HER,49520,"Reparación de hernia inguinal recurrente, cualquier edad; reducible",Sin Cambios
+HER,49521,"Reparación de hernia inguinal recurrente, cualquier edad; encarcelada o estrangulada",Sin Cambios
+HER,49525,"Reparación de hernia inguinal por deslizamiento, cualquier edad",Sin Cambios
+HER,49550,"Reparación de hernia femoral inicial, cualquier edad; reducible",Sin Cambios
+HER,49553,"Reparación de hernia femoral inicial, cualquier edad; encarcelada o estrangulada",Sin Cambios
+HER,49555,Reparación de hernia femoral recurrente; reducible,Sin Cambios
+HER,49557,Reparación de hernia femoral recurrente; encarcelada o estrangulada,Sin Cambios
+HER,49591,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; menos de 3 cm, reducible",Sin Cambios
+HER,49592,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; menos de 3 cm, encarcelada",Sin Cambios
+HER,49593,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; de 3 a 10 cm, reducible",Sin Cambios
+HER,49594,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; de 3 a 10 cm, encarcelada",Sin Cambios
+HER,49595,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; más de 10 cm, reducible",Sin Cambios
+HER,49596,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), inicial, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; más de 10 cm, encarcelada",Sin Cambios
+HER,49600,"Reparación de onfalocele pequeño, con cierre primario",Sin Cambios
+HER,49605,Reparación de onfalocele grande o gastrosquisis; con o sin prótesis,Sin Cambios
+HER,49606,"Reparación de onfalocele grande o gastrosquisis; con retiro de prótesis, reducción final y cierre, en quirófano",Sin Cambios
+HER,49610,Reparación de onfalocele (operación tipo Gross); primera etapa,Sin Cambios
+HER,49611,Reparación de onfalocele (operación tipo Gross); segunda etapa,Sin Cambios
+HER,49613,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; menos de 3 cm, reducible",Sin Cambios
+HER,49614,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; menos de 3 cm, encarcelada",Sin Cambios
+HER,49615,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; de 3 a 10 cm, reducible",Sin Cambios
+HER,49616,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; de 3 a 10 cm, encarcelada",Sin Cambios
+HER,49617,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; más de 10 cm, reducible",Sin Cambios
+HER,49618,"Reparación de hernia(s) abdominal(es) anterior(es) (epigástrica, incisional, ventral, umbilical, de Spiegel), cualquier abordaje (abierto, laparoscópico, robótico), recurrente, incluye malla u otra prótesis cuando se realiza, longitud total del defecto; más de 10 cm, encarcelada",Sin Cambios
+HER,49621,"Reparación de hernia paraestomal, cualquier abordaje (abierto, laparoscópico, robótico), inicial o recurrente, incluye implante de malla u otra prótesis, cuando se realiza; reducible",Sin Cambios
+HER,49622,"Reparación de hernia paraestomal, cualquier abordaje (abierto, laparoscópico, robótico), inicial o recurrente, incluye implante de malla u otra prótesis, cuando se realiza; encarcelada o estrangulada",Sin Cambios
+HER,49650,Laparoscopia quirúrgica; reparación de hernia inguinal inicial,Sin Cambios
+HER,49651,Laparoscopia quirúrgica; reparación de hernia inguinal recurrente,Sin Cambios
+HER,49659,"Procedimiento laparoscópico no listado, hernioplastia, herniorrafia, herniotomía",Sin Cambios
+HPRO,27125,"Hemiartroplastia de cadera, parcial (ej. prótesis de vástago femoral, artroplastia bipolar)",Sin Cambios
+HPRO,27130,"Artroplastia con reemplazo protésico acetabular y femoral proximal (artroplastia total de cadera), con o sin autoinjerto o aloinjerto",Sin Cambios
+HPRO,27132,"Conversión de cirugía de cadera previa a artroplastia total de cadera, con o sin autoinjerto o aloinjerto",Sin Cambios
+HPRO,27134,"Revisión de artroplastia total de cadera; ambos componentes, con o sin autoinjerto o aloinjerto",Sin Cambios
+HPRO,27137,"Revisión de artroplastia total de cadera; solo componente acetabular, con o sin autoinjerto o aloinjerto",Sin Cambios
+HPRO,27138,"Revisión de artroplastia total de cadera; solo componente femoral, con o sin aloinjerto",Sin Cambios
+HPRO,27236,"Tratamiento abierto de fractura femoral, extremo proximal, cuello, fijación interna o reemplazo protésico",Sin Cambios
+HTP,33935,Trasplante de corazón-pulmón con cardiectomía-neumonectomía del receptor,Sin Cambios
+HTP,33945,"Trasplante de corazón, con o sin cardiectomía del receptor",Sin Cambios
+HYST,58150,"Histerectomía abdominal total (cuerpo y cuello uterino), con o sin extirpación de trompa(s), con o sin extirpación de ovario(s)",Sin Cambios
+HYST,58152,"Histerectomía abdominal total (cuerpo y cuello uterino), con o sin extirpación de trompa(s), con o sin extirpación de ovario(s); con colpouretrocistopexia (ej. Marshall-Marchetti-Krantz, Burch)",Sin Cambios
+HYST,58180,"Histerectomía abdominal supracervical (histerectomía subtotal), con o sin extirpación de trompa(s), con o sin extirpación de ovario(s)",Sin Cambios
+HYST,58200,"Histerectomía abdominal total, incluye vaginectomía parcial, con muestreo de ganglios linfáticos paraaórticos y pélvicos, con o sin extirpación de trompa(s), con o sin extirpación de ovario(s)",Sin Cambios
+HYST,58210,"Histerectomía abdominal radical, con linfadenectomía pélvica total bilateral y muestreo (biopsia) de ganglios paraaórticos, con o sin extirpación de trompa(s), con o sin extirpación de ovario(s)",Sin Cambios
+HYST,58240,"Exenteración pélvica por cáncer ginecológico, con histerectomía abdominal total o cervicectomía, con o sin extirpación de trompa(s) y ovario(s), con extirpación de vejiga y trasplante ureteral, y/o resección abdominoperineal de recto y colon y colostomía, o cualquier combinación",Sin Cambios
+HYST,58541,"Laparoscopia quirúrgica, histerectomía supracervical, útero de 250 g o menos",Sin Cambios
+HYST,58542,"Laparoscopia quirúrgica, histerectomía supracervical, útero de 250 g o menos; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58543,"Laparoscopia quirúrgica, histerectomía supracervical, útero de más de 250 g",Sin Cambios
+HYST,58544,"Laparoscopia quirúrgica, histerectomía supracervical, útero de más de 250 g; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58548,"Laparoscopia quirúrgica, con histerectomía radical, linfadenectomía pélvica total bilateral y muestreo (biopsia) de ganglios paraaórticos, con extirpación de trompa(s) y ovario(s), si se realiza",Sin Cambios
+HYST,58550,"Laparoscopia quirúrgica, con histerectomía vaginal, útero de 250 g o menos",Sin Cambios
+HYST,58552,"Laparoscopia quirúrgica, con histerectomía vaginal, útero de 250 g o menos; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58553,"Laparoscopia quirúrgica, con histerectomía vaginal, útero de más de 250 g",Sin Cambios
+HYST,58554,"Laparoscopia quirúrgica, con histerectomía vaginal, útero de más de 250 g; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58570,"Laparoscopia quirúrgica, con histerectomía total, útero de 250 g o menos",Sin Cambios
+HYST,58571,"Laparoscopia quirúrgica, con histerectomía total, útero de 250 g o menos; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58572,"Laparoscopia quirúrgica, con histerectomía total, útero de más de 250 g",Sin Cambios
+HYST,58573,"Laparoscopia quirúrgica, con histerectomía total, útero de más de 250 g; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+HYST,58575,"Laparoscopia quirúrgica, histerectomía total para resección de cáncer (citorreducción tumoral), con omentectomía incluida salpingooforectomía unilateral o bilateral, cuando se realiza",Sin Cambios
+HYST,58951,"Resección (inicial) de cáncer de ovario, trompa o peritoneal primario con salpingooforectomía bilateral y omentectomía; con histerectomía abdominal total, linfadenectomía pélvica y paraaórtica limitada",Sin Cambios
+HYST,58953,"Salpingooforectomía bilateral con omentectomía, histerectomía abdominal total y disección radical para citorreducción",Sin Cambios
+HYST,58954,"Salpingooforectomía bilateral con omentectomía, histerectomía abdominal total y disección radical para citorreducción; con linfadenectomía pélvica y paraaórtica limitada",Sin Cambios
+HYST,58956,"Salpingooforectomía bilateral con omentectomía total, histerectomía abdominal total por cáncer",Sin Cambios
+HYST,59525,Histerectomía subtotal o total después de parto por cesárea,Sin Cambios
+KPRO,27438,Artroplastia de rótula; con prótesis,Sin Cambios
+KPRO,27440,"Artroplastia de rodilla, meseta tibial",Sin Cambios
+KPRO,27441,"Artroplastia de rodilla, meseta tibial; con desbridamiento y sinovectomía parcial",Sin Cambios
+KPRO,27442,"Artroplastia de cóndilos femorales o meseta(s) tibial(es), rodilla",Sin Cambios
+KPRO,27443,"Artroplastia de cóndilos femorales o meseta(s) tibial(es), rodilla; con desbridamiento y sinovectomía parcial",Sin Cambios
+KPRO,27445,"Artroplastia de rodilla, prótesis de bisagra (ej. tipo Walldius)",Sin Cambios
+KPRO,27446,"Artroplastia de rodilla, cóndilo y meseta; compartimento medial O lateral",Sin Cambios
+KPRO,27447,"Artroplastia de rodilla, cóndilo y meseta; compartimentos medial Y lateral con o sin recubrimiento de rótula (artroplastia total de rodilla)",Sin Cambios
+KPRO,27486,"Revisión de artroplastia total de rodilla, con o sin aloinjerto, un componente",Sin Cambios
+KPRO,27487,"Revisión de artroplastia total de rodilla, con o sin aloinjerto; componente femoral y tibial completo",Sin Cambios
+KTP,50340,Nefrectomía del receptor (procedimiento separado),Sin Cambios
+KTP,50360,"Alotrasplante renal, implante del injerto; sin nefrectomía del receptor",Sin Cambios
+KTP,50365,"Alotrasplante renal, implante del injerto; con nefrectomía del receptor",Sin Cambios
+KTP,50380,"Autotrasplante renal, reimplante de riñón",Sin Cambios
+LAM,22220,"Osteotomía de columna, incluye discectomía, abordaje anterior, un segmento vertebral; cervical",Sin Cambios
+LAM,22222,"Osteotomía de columna, incluye discectomía, abordaje anterior, un segmento vertebral; torácica",Sin Cambios
+LAM,22224,"Osteotomía de columna, incluye discectomía, abordaje anterior, un segmento vertebral; lumbar",Sin Cambios
+LAM,22856,"Artroplastia discal total (disco artificial), abordaje anterior, incluye discectomía con preparación de platillos (incluye osteofitectomía para descompresión de raíz nerviosa o médula espinal y microdisección); un espacio, cervical",Sin Cambios
+LAM,22857,"Artroplastia discal total (disco artificial), abordaje anterior, incluye discectomía para preparar el espacio intervertebral (no para descompresión), un espacio, lumbar",Sin Cambios
+LAM,22861,"Revisión con reemplazo de artroplastia discal total (disco artificial), abordaje anterior, un espacio; cervical",Sin Cambios
+LAM,22862,"Revisión con reemplazo de artroplastia discal total (disco artificial), abordaje anterior, un espacio; lumbar",Sin Cambios
+LAM,22867,"Inserción de dispositivo interlaminar/interespinoso de estabilización/distracción, sin fusión, incluye guía por imagen cuando se realiza, con descompresión abierta, lumbar; un nivel",Sin Cambios
+LAM,62287,"Procedimiento de descompresión percutánea del núcleo pulposo del disco intervertebral, cualquier método con aguja para extraer material discal bajo fluoroscopia u otra visualización indirecta, con endoscopio, con discografía y/o inyección(es) epidural(es) en el/los nivel(es) tratado(s), cuando se realiza, uno o varios niveles, lumbar",Sin Cambios
+LAM,62351,"Implante, revisión o reposicionamiento de catéter intratecal o epidural tunelizado, para administración prolongada de medicamentos mediante bomba externa o reservorio/bomba de infusión implantable; con laminectomía",Sin Cambios
+LAM,62380,"Descompresión endoscópica de médula espinal y raíz(es) nerviosa(s), incluye laminectomía, facetectomía parcial, foraminotomía, discectomía y/o escisión de disco intervertebral herniado, 1 espacio, lumbar",Sin Cambios
+LAM,63001,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), 1 o 2 segmentos vertebrales; cervical",Sin Cambios
+LAM,63003,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), 1 o 2 segmentos vertebrales; torácica",Sin Cambios
+LAM,63005,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), 1 o 2 segmentos vertebrales; lumbar, excepto por espondilolistesis",Sin Cambios
+LAM,63011,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), 1 o 2 segmentos vertebrales; sacra",Sin Cambios
+LAM,63012,"Laminectomía con extirpación de facetas anormales y/o pars interarticularis con descompresión de cola de caballo y raíces nerviosas por espondilolistesis, lumbar (procedimiento tipo Gill)",Sin Cambios
+LAM,63015,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), más de 2 segmentos vertebrales; cervical",Sin Cambios
+LAM,63016,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), más de 2 segmentos vertebrales; torácica",Sin Cambios
+LAM,63017,"Laminectomía con exploración y/o descompresión de médula espinal y/o cola de caballo, sin facetectomía, foraminotomía ni discectomía (ej. estenosis espinal), más de 2 segmentos vertebrales; lumbar",Sin Cambios
+LAM,63020,"Laminotomía (hemilaminectomía), con descompresión de raíz(es) nerviosa(s), incluye facetectomía parcial, foraminotomía y/o escisión de disco intervertebral herniado; 1 espacio, cervical",Sin Cambios
+LAM,63030,"Laminotomía (hemilaminectomía), con descompresión de raíz(es) nerviosa(s), incluye facetectomía parcial, foraminotomía y/o escisión de disco intervertebral herniado; 1 espacio, lumbar",Sin Cambios
+LAM,63035,"Laminotomía (hemilaminectomía), con descompresión de raíz(es) nerviosa(s), incluye facetectomía parcial, foraminotomía y/o escisión de disco intervertebral herniado; cada espacio adicional, cervical o lumbar (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63040,"Laminotomía (hemilaminectomía), con descompresión de raíz(es) nerviosa(s), incluye facetectomía parcial, foraminotomía y/o escisión de disco intervertebral herniado, reexploración, un espacio; cervical",Sin Cambios
+LAM,63042,"Laminotomía (hemilaminectomía), con descompresión de raíz(es) nerviosa(s), incluye facetectomía parcial, foraminotomía y/o escisión de disco intervertebral herniado, reexploración, un espacio; lumbar",Sin Cambios
+LAM,63045,"Laminectomía, facetectomía y foraminotomía (unilateral o bilateral con descompresión de médula espinal, cola de caballo y/o raíz(es) nerviosa(s) [ej. estenosis espinal o del receso lateral]), un segmento vertebral; cervical",Sin Cambios
+LAM,63046,"Laminectomía, facetectomía y foraminotomía (unilateral o bilateral con descompresión de médula espinal, cola de caballo y/o raíz(es) nerviosa(s) [ej. estenosis espinal o del receso lateral]), un segmento vertebral; torácica",Sin Cambios
+LAM,63047,"Laminectomía, facetectomía y foraminotomía (unilateral o bilateral con descompresión de médula espinal, cola de caballo y/o raíz(es) nerviosa(s) [ej. estenosis espinal o del receso lateral]), un segmento vertebral; lumbar",Sin Cambios
+LAM,63048,"Laminectomía, facetectomía y foraminotomía (unilateral o bilateral con descompresión de médula espinal, cola de caballo y/o raíz(es) nerviosa(s) [ej. estenosis espinal o del receso lateral]), un segmento vertebral; cada segmento adicional, cervical, torácico o lumbar (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63050,"Laminoplastia cervical, con descompresión de la médula espinal, 2 o más segmentos vertebrales",Sin Cambios
+LAM,63051,"Laminoplastia cervical, con descompresión de la médula espinal, 2 o más segmentos vertebrales; con reconstrucción de los elementos óseos posteriores (incluye injerto óseo en puente y dispositivos de fijación no segmentaria [ej. alambre, sutura, miniplacas], cuando se realiza)",Sin Cambios
+LAM,63055,"Abordaje transpedicular con descompresión de médula espinal, cola de caballo y/o raíz(es) nerviosa(s) (ej. disco intervertebral herniado), un segmento; torácico",Sin Cambios
+LAM,63056,Lumbar (incluye abordaje transfacetario o extraforaminal lateral) (ej. disco intervertebral herniado lateral lejano),Sin Cambios
+LAM,63064,"Abordaje costovertebral con descompresión de médula espinal o raíz(es) nerviosa(s) (ej. disco intervertebral herniado), torácico; un segmento",Sin Cambios
+LAM,63075,"Discectomía anterior, con descompresión de médula espinal y/o raíz(es) nerviosa(s), incluye osteofitectomía; cervical, un espacio",Sin Cambios
+LAM,63077,"Discectomía anterior, con descompresión de médula espinal y/o raíz(es) nerviosa(s), incluye osteofitectomía; torácica, un espacio",Sin Cambios
+LAM,63081,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje anterior con descompresión de médula espinal y/o raíz(es) nerviosa(s); cervical, un segmento",Sin Cambios
+LAM,63082,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje anterior con descompresión de médula espinal y/o raíz(es) nerviosa(s); cervical, cada segmento adicional (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63085,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje transtorácico con descompresión de médula espinal y/o raíz(es) nerviosa(s); torácica, un segmento",Sin Cambios
+LAM,63086,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje transtorácico con descompresión de médula espinal y/o raíz(es) nerviosa(s); torácica, cada segmento adicional (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63087,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje toracolumbar combinado con descompresión de médula espinal, cola de caballo o raíz(es) nerviosa(s), torácica baja o lumbar; un segmento",Sin Cambios
+LAM,63088,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje toracolumbar combinado con descompresión de médula espinal, cola de caballo o raíz(es) nerviosa(s), torácica baja o lumbar; cada segmento adicional (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63090,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje transperitoneal o retroperitoneal con descompresión de médula espinal, cola de caballo o raíz(es) nerviosa(s), torácica baja, lumbar o sacra; un segmento",Sin Cambios
+LAM,63091,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje transperitoneal o retroperitoneal con descompresión de médula espinal, cola de caballo o raíz(es) nerviosa(s), torácica baja, lumbar o sacra; cada segmento adicional (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63101,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje lateral extracavitario con descompresión de médula espinal y/o raíz(es) nerviosa(s) (ej. por tumor o fragmentos óseos retropulsados); torácica, un segmento",Sin Cambios
+LAM,63102,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje lateral extracavitario con descompresión de médula espinal y/o raíz(es) nerviosa(s) (ej. por tumor o fragmentos óseos retropulsados); lumbar, un segmento",Sin Cambios
+LAM,63103,"Corpectomía vertebral (resección del cuerpo vertebral), parcial o completa, abordaje lateral extracavitario con descompresión de médula espinal y/o raíz(es) nerviosa(s) (ej. por tumor o fragmentos óseos retropulsados); torácica o lumbar, cada segmento adicional (reportar por separado además del código del procedimiento principal)",Sin Cambios
+LAM,63170,"Laminectomía con mielotomía (ej. tipo Bischof o DREZ), cervical, torácica o toracolumbar",Sin Cambios
+LAM,63172,Laminectomía con drenaje de quiste intramedular/siringe; al espacio subaracnoideo,Sin Cambios
+LAM,63173,Laminectomía con drenaje de quiste intramedular/siringe; al espacio peritoneal o pleural,Sin Cambios
+LAM,63180,"Laminectomía y sección de ligamentos dentados, con o sin injerto dural, cervical; 1 o 2 segmentos",Sin Cambios
+LAM,63182,"Laminectomía y sección de ligamentos dentados, con o sin injerto dural, cervical; más de 2 segmentos",Sin Cambios
+LAM,63185,Laminectomía con rizotomía; 1 o 2 segmentos,Sin Cambios
+LAM,63190,Laminectomía con rizotomía; más de 2 segmentos,Sin Cambios
+LAM,63191,Laminectomía con sección del nervio accesorio espinal,Sin Cambios
+LAM,63197,"Laminectomía con cordotomía, con sección de ambos tractos espinotalámicos, 1 etapa; torácica",Sin Cambios
+LAM,63200,"Laminectomía con liberación de médula anclada, lumbar",Sin Cambios
+LAM,63250,Laminectomía para escisión u oclusión de malformación arteriovenosa de la médula espinal; cervical,Sin cambios
+LAM,63251,Laminectomía para escisión u oclusión de malformación arteriovenosa de la médula espinal; torácica,Sin cambios
+LAM,63252,Laminectomía para escisión u oclusión de malformación arteriovenosa de la médula espinal; toracolumbar,Sin cambios
+LAM,63265,"Laminectomía para escisión o evacuación de lesión intraespinal no neoplásica, extradural; cervical",Sin cambios
+LAM,63266,"Laminectomía para escisión o evacuación de lesión intraespinal no neoplásica, extradural; torácica",Sin cambios
+LAM,63267,"Laminectomía para escisión o evacuación de lesión intraespinal no neoplásica, extradural; lumbar",Sin cambios
+LAM,63268,"Laminectomía para escisión o evacuación de lesión intraespinal no neoplásica, extradural; sacra",Sin cambios
+LAM,63270,"Laminectomía para escisión de lesión intraespinal no neoplásica, intradural; cervical",Sin cambios
+LAM,63271,"Laminectomía para escisión de lesión intraespinal no neoplásica, intradural; torácica",Sin cambios
+LAM,63272,"Laminectomía para escisión de lesión intraespinal no neoplásica, intradural; lumbar",Sin cambios
+LAM,63273,"Laminectomía para escisión de lesión intraespinal no neoplásica, intradural; sacra",Sin cambios
+LAM,63275,"Laminectomía para biopsia/escisión de neoplasia intraespinal; extradural, cervical",Sin cambios
+LAM,63276,"Laminectomía para biopsia/escisión de neoplasia intraespinal; extradural, torácica",Sin cambios
+LAM,63277,"Laminectomía para biopsia/escisión de neoplasia intraespinal; extradural, lumbar",Sin cambios
+LAM,63278,"Laminectomía para biopsia/escisión de neoplasia intraespinal; extradural, sacra",Sin cambios
+LAM,63280,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, extramedular, cervical",Sin cambios
+LAM,63281,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, extramedular, torácica",Sin cambios
+LAM,63282,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, extramedular, lumbar",Sin cambios
+LAM,63283,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, sacra",Sin cambios
+LAM,63285,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, intramedular, cervical",Sin cambios
+LAM,63286,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, intramedular, torácica",Sin cambios
+LAM,63287,"Laminectomía para biopsia/escisión de neoplasia intraespinal; intradural, intramedular, toracolumbar",Sin cambios
+LAM,63290,"Laminectomía para biopsia/escisión de neoplasia intraespinal; lesión combinada extradural-intradural, cualquier nivel",Sin cambios
+LAM,63709,"Reparación de fuga dural/de líquido cefalorraquídeo o pseudomeningocele, con laminectomía",Sin cambios
+LAM,63740,"Creación de derivación lumbar, subaracnoideo-peritoneal, -pleural u otra; incluye laminectomía",Sin cambios
+LAM,0202T,"Artroplastia de articulación(es) vertebral(es) posterior(es) (ej. reemplazo de faceta[s]), incluye facetectomía, laminectomía, foraminotomía y fijación de columna, inyección de cemento óseo, cuando se realiza, incluye fluoroscopia, un nivel, columna lumbar",Sin Cambios
+LAM,0219T,"Colocación de implante(s) intrafacetario(s) posterior(es), unilateral o bilateral, incluye imágenes y colocación de injerto(s) óseo(s) o dispositivo(s) sintético(s), un nivel; cervical",Sin Cambios
+LAM,0220T,"Colocación de implante(s) intrafacetario(s) posterior(es), unilateral o bilateral, incluye imágenes y colocación de injerto(s) óseo(s) o dispositivo(s) sintético(s), un nivel; torácico",Sin Cambios
+LAM,0221T,"Colocación de implante(s) intrafacetario(s) posterior(es), unilateral o bilateral, incluye imágenes y colocación de injerto(s) óseo(s) o dispositivo(s) sintético(s), un nivel; lumbar",Sin Cambios
+LTP,47135,"Alotrasplante hepático; ortotópico, parcial o completo, de donante cadavérico o vivo, cualquier edad",Sin Cambios
+NECK,31300,"Laringotomía (tirotomía, laringofisura); con extirpación de tumor o laringocele, cordectomía",Sin Cambios
+NECK,31360,"Laringectomía; total, sin disección radical de cuello",Sin Cambios
+NECK,31365,"Laringectomía; total, con disección radical de cuello",Sin Cambios
+NECK,31367,"Laringectomía; subtotal supraglótica, sin disección radical de cuello",Sin Cambios
+NECK,31368,"Laringectomía; subtotal supraglótica, con disección radical de cuello",Sin Cambios
+NECK,31370,Laringectomía parcial (hemilaringectomía); horizontal,Sin Cambios
+NECK,31375,Laringectomía parcial (hemilaringectomía); laterovertical,Sin Cambios
+NECK,31380,Laringectomía parcial (hemilaringectomía); anterovertical,Sin Cambios
+NECK,31382,Laringectomía parcial (hemilaringectomía); antero-latero-vertical,Sin Cambios
+NECK,31390,"Faringolaringectomía, con disección radical de cuello; sin reconstrucción",Sin Cambios
+NECK,31395,"Faringolaringectomía, con disección radical de cuello; con reconstrucción",Sin Cambios
+NECK,31400,"Aritenoidectomía o aritenoidopexia, abordaje externo",Sin Cambios
+NECK,31420,Epiglotectomía,Sin Cambios
+NECK,31551,"Laringoplastia; por estenosis laríngea, con injerto, sin colocación de stent permanente, menor de 12 años",Sin Cambios
+NECK,31552,"Laringoplastia; por estenosis laríngea, con injerto, sin colocación de stent permanente, 12 años o más",Sin Cambios
+NECK,31553,"Laringoplastia; por estenosis laríngea, con injerto, con colocación de stent permanente, menor de 12 años",Sin Cambios
+NECK,31554,"Laringoplastia; por estenosis laríngea, con injerto, con colocación de stent permanente, 12 años o más",Sin Cambios
+NECK,31560,"Laringoscopia directa, quirúrgica, con aritenoidectomía",Sin Cambios
+NECK,31561,"Laringoscopia directa, quirúrgica, con aritenoidectomía; con microscopio quirúrgico o telescopio",Sin Cambios
+NECK,31580,"Laringoplastia; por membrana laríngea, con inserción de quilla o stent permanente",Sin Cambios
+NECK,31584,"Laringoplastia; con reducción abierta y fijación (ej. con placas) de fractura, incluye traqueostomía, si se realiza",Sin Cambios
+NECK,31587,"Laringoplastia, división del cricoides, sin colocación de injerto",Sin Cambios
+NECK,31590,Reinervación laríngea mediante pedículo neuromuscular,Sin Cambios
+NECK,31591,"Laringoplastia de medialización, unilateral",Sin Cambios
+NECK,31592,Resección cricotraqueal,Sin Cambios
+NECK,31599,"Procedimiento no listado, laringe",Sin Cambios
+NECK,38308,Linfangiotomía u otras operaciones de los canales linfáticos,Sin Cambios
+NECK,38542,Disección de ganglio(s) yugular(es) profundo(s),Sin Cambios
+NECK,38720,Linfadenectomía cervical (completa),Sin Cambios
+NECK,38724,Linfadenectomía cervical (disección radical modificada de cuello),Sin Cambios
+NECK,41135,"Glosectomía; parcial, con disección radical unilateral de cuello",Sin Cambios
+NECK,41140,"Glosectomía; completa o total, con o sin traqueostomía, sin disección radical de cuello",Sin Cambios
+NECK,41145,"Glosectomía; completa o total, con o sin traqueostomía, con disección radical unilateral de cuello",Sin Cambios
+NECK,41155,"Glosectomía; procedimiento compuesto con resección del piso de la boca, resección mandibular y disección radical de cuello (tipo Commando)",Sin Cambios
+NECK,42420,"Escisión de tumor parotídeo o glándula parótida; total, con disección y preservación del nervio facial",Sin Cambios
+NECK,42425,"Escisión de tumor parotídeo o glándula parótida; total, extirpación en bloque con sacrificio del nervio facial",Sin Cambios
+NECK,42426,"Escisión de tumor parotídeo o glándula parótida; total, con disección radical unilateral de cuello",Sin Cambios
+NECK,60280,Escisión de quiste o seno del conducto tirogloso,Sin Cambios
+NECK,60281,Escisión de quiste o seno del conducto tirogloso; recurrente,Sin Cambios
+NECK,69150,Escisión radical de lesión del conducto auditivo externo; sin disección de cuello,Sin Cambios
+NECK,69155,Escisión radical de lesión del conducto auditivo externo; con disección de cuello,Sin Cambios
+NECK,60000,Incisión y drenaje de quiste del conducto tirogloso infectado,Movido desde THYR
+NEPH,50010,"Exploración renal, sin requerir otros procedimientos específicos",Sin Cambios
+NEPH,50020,"Drenaje de absceso perirrenal o renal, abierto",Sin Cambios
+NEPH,50040,"Nefrostomía, nefrotomía con drenaje",Sin Cambios
+NEPH,50045,Nefrotomía con exploración,Sin Cambios
+NEPH,50060,Nefrolitotomía; extracción de cálculo,Sin Cambios
+NEPH,50065,Nefrolitotomía; operación quirúrgica secundaria por cálculo,Sin Cambios
+NEPH,50070,Nefrolitotomía; complicada por anomalía renal congénita,Sin Cambios
+NEPH,50075,Nefrolitotomía; extracción de cálculo coraliforme grande que ocupa pelvis renal y cálices (incluye pielolitotomía anatrófica),Sin Cambios
+NEPH,50120,Pielotomía; con exploración,Sin Cambios
+NEPH,50125,"Pielotomía; con drenaje, pielostomía",Sin Cambios
+NEPH,50130,"Pielotomía; con extracción de cálculo (pielolitotomía, pelviolitotomía, incluye pielolitotomía con coágulo)",Sin Cambios
+NEPH,50135,"Pielotomía; complicada (ej. operación secundaria, anomalía renal congénita)",Sin Cambios
+NEPH,50205,Biopsia renal; por exposición quirúrgica del riñón,Sin Cambios
+NEPH,50220,"Nefrectomía, incluye ureterectomía parcial, cualquier abordaje abierto incluida resección costal",Sin Cambios
+NEPH,50225,"Nefrectomía, incluye ureterectomía parcial, cualquier abordaje abierto incluida resección costal; complicada por cirugía previa en el mismo riñón",Sin Cambios
+NEPH,50230,"Nefrectomía, incluye ureterectomía parcial, cualquier abordaje abierto incluida resección costal; radical, con linfadenectomía regional y/o trombectomía de vena cava",Sin Cambios
+NEPH,50234,Nefrectomía con ureterectomía total y rodete vesical; por la misma incisión,Sin Cambios
+NEPH,50236,Nefrectomía con ureterectomía total y rodete vesical; por incisión separada,Sin Cambios
+NEPH,50240,Nefrectomía parcial,Sin Cambios
+NEPH,50250,"Ablación abierta de 1 o más lesiones de masa renal, crioquirúrgica, incluye guía y monitoreo ecográfico intraoperatorio, si se realiza",Sin Cambios
+NEPH,50280,Escisión o destechamiento de quiste(s) renal(es),Sin Cambios
+NEPH,50290,Escisión de quiste perinéfrico,Sin Cambios
+NEPH,50320,"Nefrectomía de donante (incluye preservación en frío); abierta, de donante vivo",Sin Cambios
+NEPH,50400,"Pieloplastia (pieloplastia en Y de Foley), operación plástica de la pelvis renal, con o sin plastia ureteral, nefropexia, nefrostomía, pielostomía o férula ureteral; simple",Sin Cambios
+NEPH,50405,"Pieloplastia (pieloplastia en Y de Foley), operación plástica de la pelvis renal, con o sin plastia ureteral, nefropexia, nefrostomía, pielostomía o férula ureteral; complicada (anomalía renal congénita, pieloplastia secundaria, riñón único, calicoplastia)",Sin Cambios
+NEPH,50541,Laparoscopia quirúrgica; ablación de quistes renales,Sin Cambios
+NEPH,50542,"Laparoscopia quirúrgica; ablación de lesión(es) de masa renal, incluye guía y monitoreo ecográfico intraoperatorio, cuando se realiza",Sin Cambios
+NEPH,50543,Laparoscopia quirúrgica; nefrectomía parcial,Sin Cambios
+NEPH,50545,"Laparoscopia quirúrgica; nefrectomía radical (incluye extirpación de la fascia de Gerota y tejido graso circundante, ganglios linfáticos regionales y adrenalectomía)",Sin Cambios
+NEPH,50546,"Laparoscopia quirúrgica; nefrectomía, incluye ureterectomía parcial",Sin Cambios
+NEPH,50547,"Laparoscopia quirúrgica; nefrectomía de donante (incluye preservación en frío), de donante vivo",Sin Cambios
+NEPH,50548,Laparoscopia quirúrgica; nefrectomía con ureterectomía total,Sin Cambios
+NEPH,50549,Nefrectomía laparoscópica no listada,Sin Cambios
+OVRY,58660,"Laparoscopia quirúrgica; con lisis de adherencias (salpingólisis, ovariólisis) (procedimiento separado)",Sin Cambios
+OVRY,58661,Laparoscopia quirúrgica; con extirpación de anexos (ooforectomía parcial o total y/o salpingectomía),Sin Cambios
+OVRY,58662,"Laparoscopia quirúrgica; con fulguración o escisión de lesiones del ovario, vísceras pélvicas o superficie peritoneal por cualquier método",Sin Cambios
+OVRY,58679,"Procedimiento laparoscópico no listado, oviducto, ovario",Sin Cambios
+OVRY,58720,"Salpingooforectomía completa o parcial, unilateral o bilateral (procedimiento separado)",Sin Cambios
+OVRY,58740,"Lisis de adherencias (salpingólisis, ovariólisis)",Sin Cambios
+OVRY,58800,"Drenaje de quiste(s) ovárico(s), unilateral o bilateral (procedimiento separado); abordaje vaginal",Sin Cambios
+OVRY,58805,"Drenaje de quiste(s) ovárico(s), unilateral o bilateral (procedimiento separado); abordaje abdominal",Sin Cambios
+OVRY,58820,"Drenaje de absceso ovárico; abordaje vaginal, abierto",Sin Cambios
+OVRY,58822,Drenaje de absceso ovárico; abordaje abdominal,Sin Cambios
+OVRY,58825,Transposición de ovario(s),Sin Cambios
+OVRY,58900,"Biopsia de ovario, unilateral o bilateral (procedimiento separado)",Sin Cambios
+OVRY,58920,"Resección en cuña o bisección de ovario, unilateral o bilateral",Sin Cambios
+OVRY,58925,"Quistectomía ovárica, unilateral o bilateral",Sin Cambios
+OVRY,58940,"Ooforectomía parcial o total, unilateral o bilateral",Sin Cambios
+OVRY,58943,"Ooforectomía parcial o total, unilateral o bilateral; por cáncer de ovario, trompa o peritoneal primario, con biopsias de ganglios paraaórticos y pélvicos, lavados peritoneales, biopsias peritoneales, evaluación diafragmática, con o sin salpingectomía(s), con o sin omentectomía",Sin Cambios
+OVRY,58950,"Resección (inicial) de cáncer de ovario, trompa o peritoneal primario con salpingooforectomía bilateral y omentectomía",Sin Cambios
+OVRY,58952,"Resección (inicial) de cáncer de ovario, trompa o peritoneal primario con salpingooforectomía bilateral y omentectomía; con disección radical para citorreducción (escisión o destrucción radical de tumores intraabdominales o retroperitoneales)",Sin Cambios
+OVRY,58970,"Punción folicular para recuperación de ovocitos, cualquier método",Sin Cambios
+PACE,33202,"Inserción de electrodo(s) epicárdico(s); incisión abierta (ej. toracotomía, esternotomía media, abordaje subxifoideo)",Sin Cambios
+PACE,33203,"Inserción de electrodo(s) epicárdico(s); abordaje endoscópico (ej. toracoscopia, pericardioscopia)",Sin Cambios
+PACE,33206,Inserción nueva o reemplazo de marcapasos permanente con electrodo(s) transvenoso(s); auricular,Sin Cambios
+PACE,33207,Inserción nueva o reemplazo de marcapasos permanente con electrodo(s) transvenoso(s); ventricular,Sin Cambios
+PACE,33208,Inserción nueva o reemplazo de marcapasos permanente con electrodo(s) transvenoso(s); auricular y ventricular,Sin Cambios
+PACE,33212,Inserción solo del generador de pulsos del marcapasos; con un electrodo existente,Sin Cambios
+PACE,33213,Inserción solo del generador de pulsos del marcapasos; con dos electrodos existentes,Sin Cambios
+PACE,33214,"Actualización de sistema de marcapasos implantado, conversión de sistema unicameral a bicameral (incluye retiro del generador previo, prueba del electrodo existente, inserción de nuevo electrodo y de nuevo generador de pulsos)",Sin Cambios
+PACE,33215,Reposicionamiento de electrodo (auricular derecho o ventricular derecho) de marcapasos transvenoso o desfibrilador implantable previamente implantado,Sin Cambios
+PACE,33216,"Inserción de un electrodo transvenoso, marcapasos permanente o desfibrilador implantable",Sin Cambios
+PACE,33217,"Inserción de 2 electrodos transvenosos, marcapasos permanente o desfibrilador implantable",Sin Cambios
+PACE,33218,"Reparación de un electrodo transvenoso, marcapasos permanente o desfibrilador implantable",Sin Cambios
+PACE,33220,Reparación de 2 electrodos transvenosos de marcapasos permanente o desfibrilador implantable,Sin Cambios
+PACE,33221,Inserción solo del generador de pulsos del marcapasos; con múltiples electrodos existentes,Sin Cambios
+PACE,33222,Reubicación del bolsillo cutáneo del marcapasos,Sin Cambios
+PACE,33223,Reubicación del bolsillo cutáneo del desfibrilador implantable,Sin Cambios
+PACE,33224,"Inserción de electrodo de estimulación en el sistema venoso cardíaco, para estimulación del ventrículo izquierdo, conectado a generador de marcapasos o desfibrilador implantable previo (incluye revisión del bolsillo, retiro, inserción y/o reemplazo del generador existente)",Sin Cambios
+PACE,33225,"Inserción de electrodo de estimulación en el sistema venoso cardíaco, para estimulación del ventrículo izquierdo, al momento de insertar el generador de desfibrilador implantable o marcapasos (ej. actualización a sistema bicameral) (reportar por separado además del código del procedimiento principal)",Sin Cambios
+PACE,33226,"Reposicionamiento de electrodo del sistema venoso cardíaco (ventrículo izquierdo) previamente implantado (incluye retiro, inserción y/o reemplazo del generador existente)",Sin Cambios
+PACE,33227,Retiro del generador de pulsos de marcapasos permanente con reemplazo del generador; sistema de un electrodo,Sin Cambios
+PACE,33228,Retiro del generador de pulsos de marcapasos permanente con reemplazo del generador; sistema de dos electrodos,Sin Cambios
+PACE,33229,Retiro del generador de pulsos de marcapasos permanente con reemplazo del generador; sistema de múltiples electrodos,Sin Cambios
+PACE,33230,Inserción solo del generador de pulsos de desfibrilador implantable; con dos electrodos existentes,Sin Cambios
+PACE,33231,Inserción solo del generador de pulsos de desfibrilador implantable; con múltiples electrodos existentes,Sin Cambios
+PACE,33233,Retiro solo del generador de pulsos de marcapasos permanente,Sin Cambios
+PACE,33234,"Retiro de electrodo(s) de marcapasos transvenoso; sistema de un electrodo, auricular o ventricular",Sin Cambios
+PACE,33235,Retiro de electrodo(s) de marcapasos transvenoso; sistema de dos electrodos,Sin Cambios
+PACE,33236,"Retiro de marcapasos epicárdico permanente y electrodos por toracotomía; sistema de un electrodo, auricular o ventricular",Sin Cambios
+PACE,33237,Retiro de marcapasos epicárdico permanente y electrodos por toracotomía; sistema de dos electrodos,Sin Cambios
+PACE,33238,Retiro de electrodo(s) transvenoso(s) permanente(s) por toracotomía,Sin Cambios
+PACE,33240,Inserción solo del generador de pulsos de desfibrilador implantable; con un electrodo existente,Sin Cambios
+PACE,33241,Retiro solo del generador de pulsos de desfibrilador implantable,Sin Cambios
+PACE,33243,Retiro de electrodo(s) de desfibrilador implantable unicameral o bicameral; por toracotomía,Sin Cambios
+PACE,33244,Retiro del generador de pulsos de desfibrilador implantable con reemplazo del generador; por extracción transvenosa,Sin Cambios
+PACE,33249,"Inserción o reemplazo de sistema de desfibrilador implantable permanente, con electrodo(s) transvenoso(s), unicameral o bicameral",Sin Cambios
+PACE,33262,Retiro del generador de pulsos de desfibrilador implantable con reemplazo del generador; sistema de un electrodo,Sin Cambios
+PACE,33263,Retiro del generador de pulsos de desfibrilador implantable con reemplazo del generador; sistema de dos electrodos,Sin Cambios
+PACE,33264,Retiro del generador de pulsos de desfibrilador implantable con reemplazo del generador; sistema de múltiples electrodos,Sin Cambios
+PACE,33270,"Inserción o reemplazo de sistema de desfibrilador implantable subcutáneo permanente, con electrodo subcutáneo, incluye evaluación del umbral de desfibrilación, inducción de arritmia, evaluación de detección para terminación de arritmia y programación o reprogramación de parámetros, cuando se realiza",Sin Cambios
+PACE,33271,Inserción de electrodo de desfibrilador implantable subcutáneo,Sin Cambios
+PACE,33272,Retiro de electrodo de desfibrilador implantable subcutáneo,Sin Cambios
+PACE,33273,Reposicionamiento de electrodo de desfibrilador implantable subcutáneo previamente implantado,Sin Cambios
+PACE,0571T,"Inserción o reemplazo de sistema de cardioversor-desfibrilador implantable con electrodo(s) subesternal(es), incluye toda la guía por imagen y evaluación electrofisiológica (evaluación del umbral de desfibrilación, inducción de arritmia, evaluación de detección y programación o reprogramación de parámetros), cuando se realiza",Sin cambios
+PACE,0572T,Inserción de electrodo de desfibrilación implantable subesternal,Sin cambios
+PACE,0573T,Retiro de electrodo de desfibrilación implantable subesternal,Sin cambios
+PACE,0574T,Reposicionamiento de electrodo de desfibrilador-marcapasos implantable subesternal previamente implantado,Sin cambios
+PRST,55705,"Biopsia de próstata; incisional, cualquier abordaje",Sin Cambios
+PRST,55810,Prostatectomía radical perineal,Sin Cambios
+PRST,55812,Prostatectomía radical perineal; con biopsia(s) de ganglios linfáticos (linfadenectomía pélvica limitada),Sin Cambios
+PRST,55815,"Prostatectomía radical perineal; con linfadenectomía pélvica bilateral, incluye ganglios ilíacos externos, hipogástricos y obturadores",Sin Cambios
+PRST,55821,"Prostatectomía (incluye control de sangrado posoperatorio, vasectomía, meatotomía, calibración y/o dilatación uretral y uretrotomía interna); suprapúbica, subtotal, 1 o 2 etapas",Sin Cambios
+PRST,55831,"Prostatectomía (incluye control de sangrado posoperatorio, vasectomía, meatotomía, calibración y/o dilatación uretral y uretrotomía interna); retropúbica, subtotal",Sin Cambios
+PRST,55840,"Prostatectomía radical retropúbica, con o sin preservación de nervios",Sin Cambios
+PRST,55842,"Prostatectomía radical retropúbica, con o sin preservación de nervios; con biopsia(s) de ganglios linfáticos (linfadenectomía pélvica limitada)",Sin Cambios
+PRST,55845,"Prostatectomía radical retropúbica, con o sin preservación de nervios; con linfadenectomía pélvica bilateral, incluye ganglios ilíacos externos, hipogástricos y obturadores",Sin Cambios
+PRST,55866,"Laparoscopia quirúrgica, prostatectomía radical retropúbica, incluye preservación de nervios y asistencia robótica, cuando se realiza",Sin Cambios
+PRST,55867,"Laparoscopia quirúrgica, prostatectomía simple subtotal (incluye control de sangrado posoperatorio, vasectomía, meatotomía, calibración y/o dilatación uretral y uretrotomía interna), incluye asistencia robótica, cuando se realiza",Agregado
+PVBY,33889,"Transposición abierta de arteria subclavia a carótida realizada junto con reparación endovascular de aorta torácica descendente, por incisión en el cuello, unilateral",Sin Cambios
+PVBY,35501,Injerto de bypass con vena; carótida común-carótida interna ipsilateral,Sin Cambios
+PVBY,35506,Injerto de bypass con vena; carótido-subclavio o subclavio-carotídeo,Sin Cambios
+PVBY,35508,Injerto de bypass con vena; carótido-vertebral,Sin Cambios
+PVBY,35509,Injerto de bypass con vena; carótida-carótida contralateral,Sin Cambios
+PVBY,35510,Injerto de bypass con vena; carótido-braquial,Sin Cambios
+PVBY,35511,Injerto de bypass con vena; subclavio-subclavio,Sin Cambios
+PVBY,35512,Injerto de bypass subclavio-braquial,Sin Cambios
+PVBY,35515,Injerto de bypass subclavio-vertebral,Sin Cambios
+PVBY,35516,Injerto de bypass con vena; subclavio-axilar,Sin Cambios
+PVBY,35518,Injerto de bypass con vena; axilo-axilar,Sin Cambios
+PVBY,35521,Injerto de bypass con vena; axilo-femoral,Sin Cambios
+PVBY,35522,Injerto de bypass con vena; axilo-braquial,Sin Cambios
+PVBY,35523,Injerto de bypass con vena; braquial-cubital o -radial,Sin Cambios
+PVBY,35525,Injerto de bypass con vena; braquio-braquial,Sin Cambios
+PVBY,35533,Injerto de bypass con vena; axilo-femoro-femoral,Sin Cambios
+PVBY,35556,Injerto de bypass con vena; femoro-poplíteo,Sin Cambios
+PVBY,35558,Injerto de bypass con vena; femoro-femoral,Sin Cambios
+PVBY,35566,"Injerto de bypass con vena; femoral-tibial anterior, tibial posterior, arteria peronea u otros vasos distales",Sin Cambios
+PVBY,35570,"Injerto de bypass con vena; tibio-tibial, peroneo-tibial o tronco tibioperoneo-tibial",Sin Cambios
+PVBY,35571,"Injerto de bypass con vena; poplíteo-tibial, arteria peronea u otros vasos distales",Sin Cambios
+PVBY,35583,Bypass venoso in situ; femoro-poplíteo,Sin Cambios
+PVBY,35585,"Bypass venoso in situ; femoral-tibial anterior, tibial posterior o arteria peronea",Sin Cambios
+PVBY,35587,"Bypass venoso in situ; poplíteo-tibial, peroneo",Sin Cambios
+PVBY,35616,Injerto de bypass con material distinto de vena; subclavio-axilar,Sin Cambios
+PVBY,35621,Injerto de bypass con material distinto de vena; axilo-femoral,Sin Cambios
+PVBY,35623,Injerto de bypass con material distinto de vena; axilo-poplíteo o -tibial,Sin Cambios
+PVBY,35650,Injerto de bypass con material distinto de vena; axilo-axilar,Sin Cambios
+PVBY,35654,Injerto de bypass con material distinto de vena; axilo-femoro-femoral,Sin Cambios
+PVBY,35656,Injerto de bypass con material distinto de vena; femoro-poplíteo,Sin Cambios
+PVBY,35661,Injerto de bypass con material distinto de vena; femoro-femoral,Sin Cambios
+PVBY,35666,"Injerto de bypass con material distinto de vena; femoral-tibial anterior, tibial posterior o arteria peronea",Sin Cambios
+PVBY,35671,Injerto de bypass con material distinto de vena; poplíteo-tibial o arteria peronea,Sin Cambios
+PVBY,35686,Creación de fístula arteriovenosa distal durante cirugía de bypass de extremidad inferior (no para hemodiálisis),Sin Cambios
+REC,45110,"Proctectomía; completa, abdominoperineal combinada, con colostomía",Sin Cambios
+REC,45111,"Proctectomía; resección parcial del recto, abordaje transabdominal",Sin Cambios
+REC,45112,"Proctectomía abdominoperineal combinada, procedimiento de descenso (ej. anastomosis coloanal)",Sin Cambios
+REC,45113,"Proctectomía parcial, con mucosectomía rectal, anastomosis ileoanal, creación de reservorio ileal (S o J), con o sin ileostomía en asa",Sin Cambios
+REC,45114,"Proctectomía parcial, con anastomosis; abordaje abdominal y transacro",Sin Cambios
+REC,45116,"Proctectomía parcial, con anastomosis; solo abordaje transacro (tipo Kraske)",Sin Cambios
+REC,45119,"Proctectomía, procedimiento de descenso abdominoperineal combinado (ej. anastomosis coloanal), con creación de reservorio colónico (ej. bolsa en J), con enterostomía de derivación cuando se realiza",Sin Cambios
+REC,45120,"Proctectomía completa (por megacolon congénito), abordaje abdominal y perineal; con procedimiento de descenso y anastomosis (ej. operación tipo Swenson, Duhamel o Soave)",Sin Cambios
+REC,45121,"Proctectomía completa (por megacolon congénito), abordaje abdominal y perineal; con colectomía subtotal o total, con biopsias múltiples",Sin Cambios
+REC,45126,"Exenteración pélvica por cáncer colorrectal, con proctectomía (con o sin colostomía), con extirpación de vejiga y trasplante ureteral, y/o histerectomía o cervicectomía, con o sin extirpación de trompa(s) y ovario(s), o cualquier combinación",Sin Cambios
+REC,45395,"Laparoscopia quirúrgica; proctectomía completa, abdominoperineal combinada, con colostomía",Sin Cambios
+REC,45397,"Laparoscopia quirúrgica; proctectomía, procedimiento de descenso abdominoperineal combinado (ej. anastomosis coloanal), con creación de reservorio colónico (ej. bolsa en J), con enterostomía de derivación, cuando se realiza",Sin Cambios
+REC,45540,Proctopexia (ej. por prolapso); abordaje abdominal (abierto),Agregado
+REC,45541,Proctopexia (ej. por prolapso); abordaje perineal (abierto),Agregado
+REC,45550,"Proctopexia (ej. por prolapso); con resección de sigmoides, abordaje abdominal (abierto)",Agregado
+REC,45562,"Exploración, reparación y drenaje presacro por lesión rectal",Sin Cambios
+REC,45563,"Exploración, reparación y drenaje presacro por lesión rectal; con colostomía",Sin Cambios
+REC,57307,"Cierre de fístula rectovaginal; abordaje abdominal, con colostomía concomitante",Sin Cambios
+SB,43846,"Procedimiento gástrico restrictivo, con bypass gástrico por obesidad mórbida; con gastroenterostomía en Y de Roux de asa corta (150 cm o menos)",Movido desde GAST
+SB,43496,Transferencia libre de yeyuno con anastomosis microvascular,Sin Cambios
+SB,44010,"Duodenotomía para exploración, biopsia(s) o retiro de cuerpo extraño",Sin Cambios
+SB,44020,"Enterotomía del intestino delgado, excepto duodeno; para exploración, biopsia(s) o retiro de cuerpo extraño",Sin Cambios
+SB,44021,"Enterotomía del intestino delgado, excepto duodeno; para descompresión (ej. sonda de Baker)",Sin Cambios
+SB,44120,"Enterectomía, resección del intestino delgado; resección única y anastomosis",Sin Cambios
+SB,44125,"Enterectomía, resección del intestino delgado; con enterostomía",Sin Cambios
+SB,44126,"Enterectomía, resección del intestino delgado por atresia congénita, resección única y anastomosis del segmento intestinal proximal; sin estrechamiento (tapering)",Sin Cambios
+SB,44127,"Enterectomía, resección del intestino delgado por atresia congénita, resección única y anastomosis del segmento intestinal proximal; con estrechamiento (tapering)",Sin Cambios
+SB,44130,"Enteroenterostomía, anastomosis intestinal, con o sin enterostomía cutánea (procedimiento separado)",Sin Cambios
+SB,44186,Laparoscopia quirúrgica; yeyunostomía (ej. para descompresión o alimentación),Sin Cambios
+SB,44187,"Laparoscopia quirúrgica; ileostomía o yeyunostomía, sin sonda",Sin Cambios
+SB,44202,"Laparoscopia quirúrgica; enterectomía, resección del intestino delgado, resección única y anastomosis",Sin Cambios
+SB,44300,Colocación abierta de sonda de enterostomía o cecostomía (ej. para alimentación o descompresión) (procedimiento separado),Sin Cambios
+SB,44310,"Ileostomía o yeyunostomía, sin sonda",Sin Cambios
+SB,44312,Revisión de ileostomía; simple (liberación de cicatriz superficial) (procedimiento separado),Sin Cambios
+SB,44314,Revisión de ileostomía; complicada (reconstrucción profunda) (procedimiento separado),Sin Cambios
+SB,44316,Ileostomía continente (procedimiento de Kock) (procedimiento separado),Sin Cambios
+SB,44602,"Sutura del intestino delgado (enterorrafia) por úlcera perforada, divertículo, herida, lesión o ruptura; perforación única",Sin Cambios
+SB,44603,"Sutura del intestino delgado (enterorrafia) por úlcera perforada, divertículo, herida, lesión o ruptura; perforaciones múltiples",Sin Cambios
+SB,44615,"Estricturoplastia intestinal (enterotomía y enterorrafia) con o sin dilatación, por obstrucción intestinal",Sin Cambios
+SB,44640,Cierre de fístula enterocutánea,Sin Cambios
+SB,44650,Cierre de fístula enteroentérica o enterocólica,Sin Cambios
+SB,44800,Escisión de divertículo de Meckel (diverticulectomía) o conducto onfalomesentérico,Sin Cambios
+SB,45136,Escisión de reservorio ileoanal con ileostomía,Sin Cambios
+SPLE,38100,Esplenectomía; total (procedimiento separado),Sin Cambios
+SPLE,38101,Esplenectomía; parcial (procedimiento separado),Sin Cambios
+SPLE,38102,"Esplenectomía; total, en bloque por enfermedad extensa, junto con otro procedimiento (reportar además del código del procedimiento principal)",Sin Cambios
+SPLE,38115,Reparación de bazo roto (esplenorrafia) con o sin esplenectomía parcial,Sin Cambios
+SPLE,38120,"Laparoscopia quirúrgica, esplenectomía",Sin Cambios
+THOR,20101,Exploración de herida penetrante (procedimiento separado); tórax,Sin Cambios
+THOR,21603,"Escisión de tumor de pared torácica con compromiso de costilla(s), con reconstrucción plástica; con linfadenectomía mediastínica",Sin cambios
+THOR,31770,Broncoplastia; reparación con injerto,Sin Cambios
+THOR,31775,Broncoplastia; escisión de estenosis y anastomosis,Sin Cambios
+THOR,32096,"Toracotomía con biopsia(s) diagnóstica(s) de infiltrado(s) pulmonar(es) (ej. en cuña, incisional), unilateral",Sin Cambios
+THOR,32097,"Toracotomía con biopsia(s) diagnóstica(s) de nódulo(s) o masa(s) pulmonar(es) (ej. en cuña, incisional), unilateral",Sin Cambios
+THOR,32100,Toracotomía; con exploración,Sin Cambios
+THOR,32110,Toracotomía; con control de hemorragia traumática y/o reparación de desgarro pulmonar,Sin Cambios
+THOR,32120,Toracotomía; por complicaciones posoperatorias,Sin Cambios
+THOR,32124,Toracotomía; con neumonólisis intrapleural abierta,Sin Cambios
+THOR,32140,"Toracotomía; con extirpación de quiste(s), incluye procedimiento pleural cuando se realiza",Sin Cambios
+THOR,32141,"Toracotomía; con resección-plicatura de bullas, incluye cualquier procedimiento pleural cuando se realiza",Sin Cambios
+THOR,32151,Toracotomía; con extracción de cuerpo extraño intrapulmonar,Sin Cambios
+THOR,32200,Neumonostomía con drenaje abierto de absceso o quiste,Sin Cambios
+THOR,32215,Escarificación pleural por neumotórax recurrente,Sin Cambios
+THOR,32220,Decorticación pulmonar (procedimiento separado); total,Sin Cambios
+THOR,32225,Decorticación pulmonar (procedimiento separado); parcial,Sin Cambios
+THOR,32310,Pleurectomía parietal (procedimiento separado),Sin Cambios
+THOR,32320,Decorticación y pleurectomía parietal,Sin Cambios
+THOR,32440,"Extirpación de pulmón, neumonectomía",Sin Cambios
+THOR,32442,"Extirpación de pulmón, neumonectomía; con resección de segmento de tráquea seguida de anastomosis broncotraqueal (neumonectomía en manguito)",Sin Cambios
+THOR,32445,"Extirpación de pulmón, neumonectomía; extrapleural",Sin Cambios
+THOR,32480,"Extirpación de pulmón, distinta de neumonectomía; un lóbulo (lobectomía)",Sin Cambios
+THOR,32482,"Extirpación de pulmón, distinta de neumonectomía; 2 lóbulos (bilobectomía)",Sin Cambios
+THOR,32484,"Extirpación de pulmón, distinta de neumonectomía; un segmento (segmentectomía)",Sin Cambios
+THOR,32486,"Extirpación de pulmón, distinta de neumonectomía; con resección circunferencial de segmento bronquial seguida de anastomosis broncobronquial (lobectomía en manguito)",Sin Cambios
+THOR,32488,"Extirpación de pulmón, distinta de neumonectomía; de todo el pulmón restante tras extirpación previa de una porción (neumonectomía de completación)",Sin Cambios
+THOR,32491,"Extirpación de pulmón, distinta de neumonectomía; con resección-plicatura de pulmón(es) enfisematoso(s) (bulloso o no bulloso) para reducción de volumen pulmonar, abordaje por esternotomía o transtorácico, incluye cualquier procedimiento pleural, cuando se realiza",Sin Cambios
+THOR,32501,Resección y reparación de porción de bronquio (broncoplastia) realizada durante lobectomía o segmentectomía (reportar por separado además del código del procedimiento principal),Sin Cambios
+THOR,32503,"Resección de tumor pulmonar apical (ej. tumor de Pancoast), incluye resección de pared torácica, resección de costilla(s), disección neurovascular, cuando se realiza; sin reconstrucción de pared torácica",Sin Cambios
+THOR,32504,"Resección de tumor pulmonar apical (ej. tumor de Pancoast), incluye resección de pared torácica, resección de costilla(s), disección neurovascular, cuando se realiza; con reconstrucción de pared torácica",Sin Cambios
+THOR,32505,"Toracotomía; con resección terapéutica en cuña (ej. masa, nódulo), inicial",Sin Cambios
+THOR,32506,"Toracotomía; con resección terapéutica en cuña (ej. masa o nódulo), cada resección adicional, ipsilateral (reportar por separado además del código del procedimiento principal)",Sin Cambios
+THOR,32507,Toracotomía; con resección diagnóstica en cuña seguida de resección pulmonar anatómica (reportar por separado además del código del procedimiento principal),Sin Cambios
+THOR,32540,Enucleación extrapleural de empiema (empiemectomía),Sin Cambios
+THOR,32553,"Colocación de dispositivo(s) intersticial(es) para guía de radioterapia (ej. marcadores fiduciales, dosímetro), percutánea, intratorácica, única o múltiple",Sin Cambios
+THOR,32607,"Toracoscopia; con biopsia(s) diagnóstica(s) de infiltrado(s) pulmonar(es) (ej. en cuña, incisional), unilateral",Sin Cambios
+THOR,32608,"Toracoscopia; con biopsia(s) diagnóstica(s) de nódulo(s) o masa(s) pulmonar(es) (ej. en cuña, incisional), unilateral",Sin Cambios
+THOR,32609,Toracoscopia; con biopsia(s) de pleura,Sin Cambios
+THOR,32651,Toracoscopia quirúrgica; con decorticación pulmonar parcial,Sin Cambios
+THOR,32652,"Toracoscopia quirúrgica; con decorticación pulmonar total, incluye neumonólisis intrapleural",Sin Cambios
+THOR,32655,"Toracoscopia quirúrgica; con resección-plicatura de bullas, incluye cualquier procedimiento pleural cuando se realiza",Sin Cambios
+THOR,32662,"Toracoscopia quirúrgica; con escisión de quiste, tumor o masa mediastínica",Sin Cambios
+THOR,32663,Toracoscopia quirúrgica; con lobectomía (un lóbulo),Sin Cambios
+THOR,32666,"Toracoscopia quirúrgica; con resección terapéutica en cuña (ej. masa, nódulo), inicial unilateral",Sin Cambios
+THOR,32667,"Toracoscopia quirúrgica; con resección terapéutica en cuña (ej. masa o nódulo), cada resección adicional, ipsilateral (reportar por separado además del código del procedimiento principal)",Sin Cambios
+THOR,32668,Toracoscopia quirúrgica; con resección diagnóstica en cuña seguida de resección pulmonar anatómica (reportar por separado además del código del procedimiento principal),Sin Cambios
+THOR,32669,Toracoscopia quirúrgica; con extirpación de un segmento pulmonar (segmentectomía),Sin Cambios
+THOR,32670,Toracoscopia quirúrgica; con extirpación de dos lóbulos (bilobectomía),Sin Cambios
+THOR,32671,Toracoscopia quirúrgica; con extirpación de pulmón (neumonectomía),Sin Cambios
+THOR,32672,"Toracoscopia quirúrgica; con resección-plicatura de pulmón enfisematoso (bulloso o no bulloso) para reducción de volumen pulmonar (LVRS), unilateral, incluye cualquier procedimiento pleural, cuando se realiza",Sin Cambios
+THOR,32800,Reparación de hernia pulmonar a través de la pared torácica,Sin Cambios
+THOR,32815,Cierre abierto de fístula bronquial mayor,Sin Cambios
+THOR,32905,Toracoplastia tipo Schede o extrapleural (todas las etapas),Sin Cambios
+THOR,32906,Toracoplastia tipo Schede o extrapleural (todas las etapas); con cierre de fístula broncopleural,Sin Cambios
+THOR,32940,"Neumonólisis extraperióstica, incluye procedimientos de relleno o taponamiento",Sin Cambios
+THOR,32960,"Neumotórax terapéutico, inyección intrapleural de aire",Sin Cambios
+THOR,39000,"Mediastinotomía con exploración, drenaje, retiro de cuerpo extraño o biopsia; abordaje cervical",Sin Cambios
+THOR,39010,"Mediastinotomía con exploración, drenaje, retiro de cuerpo extraño o biopsia; abordaje transtorácico, incluye transtorácico o esternotomía media",Sin Cambios
+THOR,39200,Resección de quiste mediastínico,Sin Cambios
+THOR,39220,Resección de tumor mediastínico,Sin Cambios
+THOR,39501,"Reparación de laceración del diafragma, cualquier abordaje",Sin Cambios
+THOR,39545,"Imbricación del diafragma por eventración, transtorácica o transabdominal, paralítica o no paralítica",Sin Cambios
+THOR,39560,Resección del diafragma; con reparación simple (ej. sutura primaria),Sin Cambios
+THOR,39561,"Resección del diafragma; con reparación compleja (ej. material protésico, colgajo muscular local)",Sin Cambios
+THOR,64746,Sección o avulsión del nervio frénico,Sin Cambios
+THYR,60200,"Escisión de quiste o adenoma de tiroides, o sección del istmo",Sin Cambios
+THYR,60210,"Lobectomía tiroidea parcial, unilateral; con o sin istmectomía",Sin Cambios
+THYR,60212,"Lobectomía tiroidea parcial, unilateral; con lobectomía subtotal contralateral, incluye istmectomía",Sin Cambios
+THYR,60220,"Lobectomía tiroidea total, unilateral; con o sin istmectomía",Sin Cambios
+THYR,60225,"Lobectomía tiroidea total, unilateral; con lobectomía subtotal contralateral, incluye istmectomía",Sin Cambios
+THYR,60240,Tiroidectomía total o completa,Sin Cambios
+THYR,60252,Tiroidectomía total o subtotal por cáncer; con disección limitada de cuello,Sin Cambios
+THYR,60254,Tiroidectomía total o subtotal por cáncer; con disección radical de cuello,Sin Cambios
+THYR,60260,"Tiroidectomía, extirpación de todo el tejido tiroideo restante tras extirpación previa de una porción de la tiroides",Sin Cambios
+THYR,60270,"Tiroidectomía, incluye tiroides subesternal; abordaje por esternotomía o transtorácico",Sin Cambios
+THYR,60271,"Tiroidectomía, incluye tiroides subesternal; abordaje cervical",Sin Cambios
+THYR,60500,Paratiroidectomía o exploración de paratiroide(s),Sin Cambios
+THYR,60502,Paratiroidectomía o exploración de paratiroide(s); reexploración,Sin Cambios
+THYR,60505,"Paratiroidectomía o exploración de paratiroide(s); con exploración mediastínica, abordaje por esternotomía o transtorácico",Sin Cambios
+THYR,60512,Autotrasplante de paratiroides (reportar por separado además del código del procedimiento principal),Sin Cambios
+VHYS,51925,Cierre de fístula vesicouterina; con histerectomía,Sin Cambios
+VHYS,58260,"Histerectomía vaginal, útero de 250 g o menos",Sin Cambios
+VHYS,58262,"Histerectomía vaginal, útero de 250 g o menos; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+VHYS,58263,"Histerectomía vaginal, útero de 250 g o menos; con extirpación de trompa(s) y/u ovario(s), con reparación de enterocele",Sin Cambios
+VHYS,58267,"Histerectomía vaginal, útero de 250 g o menos; con colpouretrocistopexia (tipo Marshall-Marchetti-Krantz, tipo Pereyra) con o sin control endoscópico",Sin Cambios
+VHYS,58270,"Histerectomía vaginal, útero de 250 g o menos; con reparación de enterocele",Sin Cambios
+VHYS,58275,"Histerectomía vaginal, útero de 250 g o menos;",Sin Cambios
+VHYS,58280,"Histerectomía vaginal, con vaginectomía total o parcial; con reparación de enterocele",Sin Cambios
+VHYS,58285,Histerectomía vaginal radical (operación tipo Schauta),Sin Cambios
+VHYS,58290,"Histerectomía vaginal, útero de más de 250 g",Sin Cambios
+VHYS,58291,"Histerectomía vaginal, útero de más de 250 g; con extirpación de trompa(s) y/u ovario(s)",Sin Cambios
+VHYS,58292,"Histerectomía vaginal, útero de más de 250 g; con extirpación de trompa(s) y/u ovario(s), con reparación de enterocele",Sin Cambios
+VHYS,58293,"Histerectomía vaginal, útero de más de 250 g; con colpouretrocistopexia (tipo Marshall-Marchetti-Krantz, tipo Pereyra) con o sin control endoscópico",Sin Cambios
+VHYS,58294,"Histerectomía vaginal, útero de más de 250 g; con reparación de enterocele",Sin Cambios
+VSHN,62160,"Neuroendoscopia intracraneal, para colocación o reemplazo de catéter ventricular y conexión a sistema de derivación o drenaje externo (reportar por separado además del código del procedimiento principal)",Sin Cambios
+VSHN,62180,Ventriculocisternostomía (operación tipo Torkildsen),Sin Cambios
+VSHN,62190,"Creación de derivación; subaracnoideo/subdural-auricular, -yugular",Sin Cambios
+VSHN,62192,"Creación de derivación; subaracnoideo/subdural-peritoneal, -pleural, otro destino",Sin Cambios
+VSHN,62194,Reemplazo o irrigación de catéter subaracnoideo/subdural,Sin Cambios
+VSHN,62220,"Creación de derivación; ventrículo-auricular, -yugular",Sin Cambios
+VSHN,62223,"Creación de derivación; ventrículo-peritoneal, -pleural, otro destino",Sin Cambios
+VSHN,62225,Reemplazo o irrigación de catéter ventricular,Sin Cambios
+VSHN,62230,"Reemplazo o revisión de derivación de líquido cefalorraquídeo, válvula obstruida o catéter distal del sistema de derivación",Sin Cambios
+VSHN,62256,Retiro completo del sistema de derivación de líquido cefalorraquídeo; sin reemplazo,Sin Cambios
+VSHN,62258,Retiro completo del sistema de derivación de líquido cefalorraquídeo; con reemplazo por derivación similar u otra en la misma operación,Sin Cambios
+XLAP,20102,Exploración de herida penetrante (procedimiento separado); abdomen/flanco/espalda,Sin Cambios
+XLAP,35840,"Exploración por hemorragia, trombosis o infección posoperatoria; abdomen",Sin Cambios
+XLAP,39503,"Reparación de hernia diafragmática neonatal, con o sin inserción de tubo torácico y con o sin creación de hernia ventral",Sin Cambios
+XLAP,39540,"Reparación de hernia diafragmática (no neonatal), traumática; aguda",Sin Cambios
+XLAP,39541,"Reparación de hernia diafragmática (no neonatal), traumática; crónica",Sin Cambios
+XLAP,43332,"Reparación de hernia hiatal paraesofágica (incluye funduplicatura), por laparotomía, excepto neonatal; sin implante de malla u otra prótesis",Sin Cambios
+XLAP,43333,"Reparación de hernia hiatal paraesofágica (incluye funduplicatura), por laparotomía, excepto neonatal; con implante de malla u otra prótesis",Sin Cambios
+XLAP,44005,Enterólisis (liberación de adherencias intestinales) (procedimiento separado),Sin Cambios
+XLAP,44180,"Laparoscopia quirúrgica, enterólisis (liberación de adherencias intestinales) (procedimiento separado)",Sin Cambios
+XLAP,44700,"Exclusión del intestino delgado de la pelvis mediante malla u otra prótesis, o tejido nativo (ej. vejiga u omento)",Sin Cambios
+XLAP,44820,Escisión de lesión del mesenterio (procedimiento separado),Sin Cambios
+XLAP,44850,Sutura del mesenterio (procedimiento separado),Sin Cambios
+XLAP,49000,"Laparotomía exploratoria, celiotomía exploratoria con o sin biopsia(s) (procedimiento separado)",Sin Cambios
+XLAP,49002,Reapertura de laparotomía reciente,Sin Cambios
+XLAP,49010,Exploración del área retroperitoneal con o sin biopsia(s) (procedimiento separado),Sin Cambios
+XLAP,49013,"Taponamiento pélvico preperitoneal por hemorragia asociada a trauma pélvico, incluye exploración local",Sin cambios
+XLAP,49014,"Reexploración de herida pélvica con retiro de taponamiento pélvico preperitoneal, incluye nuevo taponamiento, cuando se realiza",Sin cambios
+XLAP,49020,"Drenaje de absceso peritoneal o peritonitis localizada, excepto absceso apendicular, abierto",Sin Cambios
+XLAP,49040,"Drenaje de absceso subdiafragmático o subfrénico, abierto",Sin Cambios
+XLAP,49060,"Drenaje de absceso retroperitoneal, abierto",Sin Cambios
+XLAP,49203,"Escisión o destrucción abierta de tumores, quistes o endometriomas intraabdominales, 1 o más tumores primarios o secundarios peritoneales, mesentéricos o retroperitoneales; tumor más grande de 5 cm de diámetro o menos",Sin Cambios
+XLAP,49204,"Escisión o destrucción abierta de tumores, quistes o endometriomas intraabdominales, 1 o más tumores primarios o secundarios peritoneales, mesentéricos o retroperitoneales; tumor más grande de 5,1-10,0 cm de diámetro",Sin Cambios
+XLAP,49205,"Escisión o destrucción abierta de tumores, quistes o endometriomas intraabdominales, 1 o más tumores primarios o secundarios peritoneales, mesentéricos o retroperitoneales; tumor más grande de más de 10,0 cm de diámetro",Sin Cambios
+XLAP,49215,Escisión de tumor presacro o sacrococcígeo,Sin Cambios
+XLAP,49220,"Laparotomía de estadificación por enfermedad de Hodgkin o linfoma (incluye esplenectomía, biopsias con aguja o abiertas de ambos lóbulos hepáticos, posible extirpación de ganglios abdominales, biopsias de ganglios abdominales y/o médula ósea, reposicionamiento ovárico)",Sin Cambios
+XLAP,49250,"Umbilectomía, onfalectomía, escisión del ombligo (procedimiento separado)",Sin Cambios
+XLAP,49255,"Omentectomía, epiploectomía, resección del omento (procedimiento separado)",Sin Cambios
+XLAP,49320,"Laparoscopia diagnóstica de abdomen, peritoneo y omento, con o sin toma de muestra(s) por cepillado o lavado (procedimiento separado)",Sin Cambios
+XLAP,49321,Laparoscopia quirúrgica; con biopsia (única o múltiple),Sin Cambios
+XLAP,49324,Laparoscopia quirúrgica; con inserción de catéter intraperitoneal tunelizado,Sin Cambios
+XLAP,49325,"Laparoscopia quirúrgica; con revisión de cánula o catéter intraperitoneal previamente colocado, con extracción de material obstructivo intraluminal si se realiza",Sin Cambios
+XLAP,49326,Laparoscopia quirúrgica; con omentopexia (fijación del omento) (reportar por separado además del código del procedimiento principal),Sin Cambios
+XLAP,49402,Extracción de cuerpo extraño de la cavidad peritoneal,Sin Cambios
+XLAP,49412,"Colocación de dispositivo(s) intersticial(es) para guía de radioterapia (ej. marcadores fiduciales, dosímetro), abierta, intraabdominal, intrapélvica y/o retroperitoneal, incluye guía por imagen, si se realiza, única o múltiple (reportar por separado además del código del procedimiento principal)",Sin Cambios
+XLAP,49419,"Inserción de catéter intraperitoneal tunelizado, con puerto subcutáneo (totalmente implantable)",Sin Cambios
+XLAP,49421,"Inserción de catéter intraperitoneal tunelizado para diálisis, abierta",Sin Cambios
+XLAP,49425,Inserción de derivación peritoneovenosa,Sin Cambios
+XLAP,49426,Revisión de derivación peritoneovenosa,Sin Cambios
+XLAP,49900,Sutura secundaria de pared abdominal por evisceración o dehiscencia,Sin Cambios
+XLAP,49905,Colgajo de omento intraabdominal (reportar por separado además del código del procedimiento principal),Sin Cambios
+XLAP,49906,Colgajo libre de omento con anastomosis microvascular,Sin Cambios
+XLAP,58960,"Laparotomía de estadificación o reestadificación de cáncer de ovario, trompa o peritoneal primario (second look), con o sin omentectomía, lavado peritoneal, biopsia del peritoneo abdominal y pélvico, evaluación diafragmática con linfadenectomía pélvica y paraaórtica limitada",Sin Cambios
